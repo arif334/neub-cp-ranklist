@@ -16,17 +16,18 @@ def get_codeforces_rating(handle):
             lastChange = data['result'][-1]['ratingUpdateTimeSeconds']
             time_gap = datetime.now() - datetime.fromtimestamp(lastChange)
             print(f"Last rating change: {time_gap.days} days ago")
-            rating = data['result'][-1]['newRating']
+            rating_actual = data['result'][-1]['newRating']
+            rating = rating_actual
             if time_gap.days > 30:
                 rating = 0
-            return rating
+            return rating, rating_actual
         else:
             print(data['result'][-1]['handle'])
             print(f"Error: {data.get('comment', 'Unknown error')}")
-            return 0
+            return [0, 0]
     except Exception as e:
         print(f"Error fetching CF rating for {handle}: {str(e)}")
-        return 0
+        return [0, 0]
 
 def process_data():
     coders = []
@@ -35,20 +36,26 @@ def process_data():
         reader = csv.DictReader(f)
         row_count = 0
         for row in reader:
-            cf_rating = get_codeforces_rating(row['cf'])
+            cf_rating, cf_rating_actual = get_codeforces_rating(row['cf'])
             score = cf_rating * 0.8  # Modify this calculation as needed
+
+            id = row['id']
+            if id.startswith('56'): 
+                id = '0' + id
             
             coders.append({
+                'id': id,
                 'name': row['name'],
                 'cf_handle': row['cf'],
-                'cf_rating': cf_rating,
+                'cf_rating': cf_rating_actual,
                 'cc_handle': row.get('cc', ''),
-                'rating': score
+                'atcoder_handle': row.get('atcoder', ''),
+                'score': score
             })
             row_count += 1
             # if row_count >= 5: break
     
-    coders.sort(key=lambda x: x['rating'], reverse=True)
+    coders.sort(key=lambda x: x['score'], reverse=True)
     
     output = {
         'meta': {

@@ -1,239 +1,287 @@
 {
   "meta": {
-    "last_updated": "2025-03-30 16:39:49",
-    "total_coders": 33
+    "last_updated": "2025-03-30 20:19:04",
+    "total_coders": 31
   },
   "data": [
     {
+      "id": "05624205101055",
       "name": "Md Ajharul Islam ",
       "cf_handle": "saklan",
       "cf_rating": 1150,
       "cc_handle": "saklan",
-      "rating": 920.0
+      "atcoder_handle": "saklan",
+      "score": 920.0
     },
     {
+      "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
       "cf_rating": 982,
       "cc_handle": "Mahedi_02",
-      "rating": 785.6
+      "atcoder_handle": "mahedi_02",
+      "score": 785.6
     },
     {
+      "id": "0562310005101031",
       "name": "Jakaria Chowdhury Tajwone",
       "cf_handle": "tajwone17",
       "cf_rating": 977,
       "cc_handle": "tajwone_17",
-      "rating": 781.6
+      "atcoder_handle": "tajwone17",
+      "score": 781.6
     },
     {
+      "id": "0562220005101016",
       "name": "Fabiha Bushra Chowdhury",
       "cf_handle": "bushrachowdhury24",
       "cf_rating": 866,
       "cc_handle": "bushra_2411",
-      "rating": 692.8000000000001
+      "atcoder_handle": "Bushra24",
+      "score": 692.8000000000001
     },
     {
-      "name": "Mahfuz Ibne Syful",
-      "cf_handle": "Mahfuz2411",
-      "cf_rating": 0,
-      "cc_handle": "Mahfuz2411",
-      "rating": 0.0
-    },
-    {
-      "name": "Mst.fahimajjaman jaina",
-      "cf_handle": "fahimajaina765",
-      "cf_rating": 0,
-      "cc_handle": "fahima_jaina",
-      "rating": 0.0
-    },
-    {
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "Murad78",
-      "cf_rating": 0,
-      "cc_handle": "murad_neub",
-      "rating": 0.0
-    },
-    {
-      "name": "Hrithik Dev Nath",
-      "cf_handle": "hrithik_79_",
-      "cf_rating": 0,
-      "cc_handle": "hrithik_9",
-      "rating": 0.0
-    },
-    {
+      "id": "200103020010",
       "name": "ABDULLAH AL MAMUN",
       "cf_handle": "WhoAmI_Who",
-      "cf_rating": 0,
+      "cf_rating": 1406,
       "cc_handle": "Come_back01 ",
-      "rating": 0.0
+      "atcoder_handle": "SAHAL01",
+      "score": 0.0
     },
     {
-      "name": "Kushal panthadas ",
-      "cf_handle": "Kushal _151",
-      "cf_rating": 0,
-      "cc_handle": "PANDA_151",
-      "rating": 0.0
+      "id": "210303020016",
+      "name": "Mahfuz Ibne Syful",
+      "cf_handle": "Mahfuz2411",
+      "cf_rating": 1120,
+      "cc_handle": "Mahfuz2411",
+      "atcoder_handle": "Mahfuz2411",
+      "score": 0.0
     },
     {
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "mahedi_02",
-      "cf_rating": 0,
-      "cc_handle": "Mahedi_02",
-      "rating": 0.0
-    },
-    {
-      "name": "Ahsan Habib Nayef ",
-      "cf_handle": "ahnayef",
-      "cf_rating": 0,
-      "cc_handle": "ahnayef",
-      "rating": 0.0
-    },
-    {
-      "name": "Ahsan Habib Nayef",
-      "cf_handle": "AHNayef",
-      "cf_rating": 0,
-      "cc_handle": "AHNayef",
-      "rating": 0.0
-    },
-    {
-      "name": "Jadab Lal Sarkar",
-      "cf_handle": "jadab_691",
-      "cf_rating": 0,
-      "cc_handle": "no",
-      "rating": 0.0
-    },
-    {
-      "name": "Nazmin Ara Asha",
-      "cf_handle": "asha_n13",
-      "cf_rating": 0,
-      "cc_handle": "asha_134",
-      "rating": 0.0
-    },
-    {
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
-      "cf_rating": 0,
-      "cc_handle": "olyahmed_680",
-      "rating": 0.0
-    },
-    {
-      "name": "Tanjeda Tanha Sumaiya",
-      "cf_handle": "tanje_001",
-      "cf_rating": 0,
-      "cc_handle": "kine_wolf_45",
-      "rating": 0.0
-    },
-    {
-      "name": "Halima Akther Mou",
-      "cf_handle": "halimaAkther",
-      "cf_rating": 0,
-      "cc_handle": "Halima Akther ",
-      "rating": 0.0
-    },
-    {
-      "name": "Sandip Paul",
-      "cf_handle": "NotThe_ChosenOne",
-      "cf_rating": 0,
-      "cc_handle": "akatsuki_2005",
-      "rating": 0.0
-    },
-    {
-      "name": "Prodipta Shakar Das Akash",
-      "cf_handle": "Das_Akash1",
-      "cf_rating": 0,
-      "cc_handle": "das_akash",
-      "rating": 0.0
-    },
-    {
-      "name": "Rysa Hoque Chowdhury",
-      "cf_handle": "CodeCrushers01",
-      "cf_rating": 0,
-      "cc_handle": "codecrushers03",
-      "rating": 0.0
-    },
-    {
-      "name": "Mst Tasnima Begum",
-      "cf_handle": "tasnima_13",
-      "cf_rating": 0,
-      "cc_handle": "tasnima13",
-      "rating": 0.0
-    },
-    {
-      "name": "Tasnur ",
-      "cf_handle": "tasnoor ",
-      "cf_rating": 0,
-      "cc_handle": "st_noor",
-      "rating": 0.0
-    },
-    {
-      "name": "Mst Tamanna Begum",
-      "cf_handle": "btamanna012 ",
-      "cf_rating": 0,
-      "cc_handle": "tamanna454",
-      "rating": 0.0
-    },
-    {
+      "id": "05620205101064",
       "name": "Md. Usman Ahmed Furkan ",
       "cf_handle": "usmanfurkan",
       "cf_rating": 0,
       "cc_handle": "usmanfurkan",
-      "rating": 0.0
+      "atcoder_handle": "usmanfurkan ",
+      "score": 0.0
     },
     {
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag",
+      "id": "05624205101018",
+      "name": "Rysa Hoque Chowdhury",
+      "cf_handle": "CodeCrushers01",
       "cf_rating": 0,
-      "cc_handle": "what_a_drag_99",
-      "rating": 0.0
+      "cc_handle": "codecrushers03",
+      "atcoder_handle": "CodeCrushers",
+      "score": 0.0
     },
     {
-      "name": "Md. Wahidul Auwal Sany",
-      "cf_handle": "Sany_00",
-      "cf_rating": 0,
-      "cc_handle": "Sany_00",
-      "rating": 0.0
-    },
-    {
-      "name": "Abhijit Kar Bappi ",
-      "cf_handle": "Shunsui_A",
-      "cf_rating": 0,
-      "cc_handle": "shunsui_a",
-      "rating": 0.0
-    },
-    {
-      "name": "Redwan Hussan ",
-      "cf_handle": "red_001",
-      "cf_rating": 0,
-      "cc_handle": "redwan_1",
-      "rating": 0.0
-    },
-    {
+      "id": "05624205101026",
       "name": "Tajmin Akter",
       "cf_handle": "aestro01",
       "cf_rating": 0,
       "cc_handle": "aestro01",
-      "rating": 0.0
+      "atcoder_handle": "aestro01",
+      "score": 0.0
     },
     {
-      "name": "Pritha Rani Mojumder",
-      "cf_handle": "Pritha_",
+      "id": "05624205101029",
+      "name": "Abhijit Kar Bappi ",
+      "cf_handle": "Shunsui_A",
       "cf_rating": 0,
-      "cc_handle": "pritha82",
-      "rating": 0.0
+      "cc_handle": "shunsui_a",
+      "atcoder_handle": "Shunsui_13",
+      "score": 0.0
     },
     {
+      "id": "05624205101051",
+      "name": "Prodipta Shakar Das Akash",
+      "cf_handle": "Das_Akash1",
+      "cf_rating": 0,
+      "cc_handle": "das_akash",
+      "atcoder_handle": "das_akash",
+      "score": 0.0
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag",
+      "cf_rating": 0,
+      "cc_handle": "what_a_drag_99",
+      "atcoder_handle": "WhatADrag ",
+      "score": 0.0
+    },
+    {
+      "id": "05624205101063",
+      "name": "Sandip Paul",
+      "cf_handle": "NotThe_ChosenOne",
+      "cf_rating": 0,
+      "cc_handle": "akatsuki_2005",
+      "atcoder_handle": "THE_AKATSUKI",
+      "score": 0.0
+    },
+    {
+      "id": "0562220005101006",
       "name": "Lubna Yesmin",
       "cf_handle": "Lubna_Yesmin",
-      "cf_rating": 0,
+      "cf_rating": 587,
       "cc_handle": "Lubna_Yesmin",
-      "rating": 0.0
+      "atcoder_handle": "LubnaYesmin",
+      "score": 0.0
     },
     {
+      "id": "0562310005101012",
+      "name": "Hrithik Dev Nath",
+      "cf_handle": "hrithik_79_",
+      "cf_rating": 740,
+      "cc_handle": "hrithik_9",
+      "atcoder_handle": " hrithik_79 ",
+      "score": 0.0
+    },
+    {
+      "id": "0562310005101015",
+      "name": "Kushal panthadas ",
+      "cf_handle": "Kushal_151",
+      "cf_rating": 790,
+      "cc_handle": "PANDA_151",
+      "atcoder_handle": "Kushal_15",
+      "score": 0.0
+    },
+    {
+      "id": "0562310005101027",
+      "name": "Ahsan Habib Nayef ",
+      "cf_handle": "ahnayef",
+      "cf_rating": 847,
+      "cc_handle": "ahnayef",
+      "atcoder_handle": "none",
+      "score": 0.0
+    },
+    {
+      "id": "0562310005101045",
+      "name": "Mst.fahimajjaman jaina",
+      "cf_handle": "fahimajaina765",
+      "cf_rating": 826,
+      "cc_handle": "fahima_jaina",
+      "atcoder_handle": "Fahima_jaina",
+      "score": 0.0
+    },
+    {
+      "id": "0562320005101063",
+      "name": "Md. Wahidul Auwal Sany",
+      "cf_handle": "Sany_00",
+      "cf_rating": 0,
+      "cc_handle": "Sany_00",
+      "atcoder_handle": "sanywahidul",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101001",
       "name": "Tanjeda Tanha Sumaiya",
       "cf_handle": "tanje_001",
       "cf_rating": 0,
       "cc_handle": "kine_wolf_45",
-      "rating": 0.0
+      "atcoder_handle": "sumo_19",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101009",
+      "name": "Halima Akther Mou",
+      "cf_handle": "halimaAkther",
+      "cf_rating": 353,
+      "cc_handle": "Halima Akther ",
+      "atcoder_handle": "Mou_004",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101012",
+      "name": "Mst Tamanna Begum",
+      "cf_handle": "btamanna012 ",
+      "cf_rating": 0,
+      "cc_handle": "tamanna454",
+      "atcoder_handle": "tamanna454",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101013",
+      "name": "Mst Tasnima Begum",
+      "cf_handle": "tasnima_13",
+      "cf_rating": 0,
+      "cc_handle": "tasnima13",
+      "atcoder_handle": "tasnima13",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
+      "cf_rating": 855,
+      "cc_handle": "olyahmed_680",
+      "atcoder_handle": "olyahmed_680",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101022",
+      "name": "Jadab Lal Sarkar",
+      "cf_handle": "jadab_691",
+      "cf_rating": 786,
+      "cc_handle": "no",
+      "atcoder_handle": "no",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101027",
+      "name": "Tasnur ",
+      "cf_handle": "tasnoor ",
+      "cf_rating": 0,
+      "cc_handle": "st_noor",
+      "atcoder_handle": "St_noor",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101028",
+      "name": "Redwan Hussan ",
+      "cf_handle": "red_001",
+      "cf_rating": 584,
+      "cc_handle": "redwan_1",
+      "atcoder_handle": "redwan_10",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101031",
+      "name": "Nazmin Ara Asha",
+      "cf_handle": "asha_n13",
+      "cf_rating": 353,
+      "cc_handle": "asha_134",
+      "atcoder_handle": "I Don't have one",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "Murad78",
+      "cf_rating": 594,
+      "cc_handle": "murad_neub",
+      "atcoder_handle": "MURAD_NEUB",
+      "score": 0.0
+    },
+    {
+      "id": "0562410005101045",
+      "name": "Pritha Rani Mojumder",
+      "cf_handle": "Pritha_",
+      "cf_rating": 0,
+      "cc_handle": "pritha82",
+      "atcoder_handle": "Pritha_",
+      "score": 0.0
+    },
+    {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_rating": 976,
+      "cc_handle": "arif334",
+      "atcoder_handle": "arif334",
+      "score": 0.0
     }
   ]
 }

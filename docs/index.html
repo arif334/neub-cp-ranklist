@@ -9,17 +9,19 @@
 </head>
 <body>
     <div class="container mt-4">
-        <h1 class="text-center mb-4">NEUB Competitive Programming Ranklist</h1>
+        <h1 class="text-center mb-4">NEUB Competitive Programmers' Ranklist</h1>
         <div class="table-responsive">
             <table class="table table-striped table-hover">
                 <thead class="table-dark">
                     <tr>
                         <th>Rank</th>
                         <th>Name</th>
-                        <th>CF Handle</th>
+                        <th>ID</th>
+                        <th>CodeForces</th>
                         <th>CF Rating</th>
-                        <th>CC Handle</th>
-                        <th>Rating</th>
+                        <th>CodeChef</th>
+                        <th>AtCoder</th>
+                        <th>Score</th>
                     </tr>
                 </thead>
                 <tbody id="ranklist-body">
@@ -37,16 +39,19 @@
         fetch('assets/data.json')
             .then(response => response.json())
             .then(data => {
+                console.log('Ranklist data:', data);
                 const tbody = document.getElementById('ranklist-body');
                 tbody.innerHTML = ''; // Clear existing rows
                 data.data.forEach((coder, index) => {
                     const row = `<tr>
                         <td>${index + 1}</td>
                         <td>${coder.name}</td>
+                        <td>${coder.id}</td>
                         <td><a href="https://codeforces.com/profile/${coder.cf_handle}" target="_blank">${coder.cf_handle}</a></td>
                         <td>${coder.cf_rating}</td>
                         <td><a href="https://www.codechef.com/users/${coder.cc_handle}" target="_blank">${coder.cc_handle}</a></td>
-                        <td>${coder.rating.toFixed(2)}</td>
+                        <td><a href="https://atcoder.jp/users/${coder.atcoder_handle}" target="_blank">${coder.atcoder_handle}</a></td>
+                        <td>${coder.score.toFixed(2)}</td>
                     </tr>`;
                     tbody.innerHTML += row;
                 });
@@ -57,9 +62,6 @@
                 document.getElementById('ranklist-body').innerHTML = '<tr><td colspan="7" class="text-center text-danger">Failed to load data</td></tr>';
             });
     </script>
-                });
-                document.getElementById('update-time').textContent = data.meta.last_updated;
-            });
-    </script>
+
 </body>
 </html>
