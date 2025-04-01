@@ -15,7 +15,7 @@ def get_codeforces_rating(handle):
         if response.status_code == 200:
             lastChange = data['result'][-1]['ratingUpdateTimeSeconds']
             time_gap = datetime.now() - datetime.fromtimestamp(lastChange)
-            print(f"Last rating change: {time_gap.days} days ago")
+            print(f"Last rating change of {handle}: {time_gap.days} days ago")
             rating_actual = data['result'][-1]['newRating']
             rating = rating_actual
             if time_gap.days > 30:
@@ -42,12 +42,20 @@ def process_data():
             id = row['id']
             if id.startswith('56'): 
                 id = '0' + id
+
+            cf_color = 'gray'
+            if cf_rating_actual >= 2400: cf_color = 'red'
+            elif cf_rating_actual >= 2100: cf_color = 'orange'
+            elif cf_rating_actual >= 1900: cf_color = 'purple'
+            elif cf_rating_actual >= 1600: cf_color = 'blue'
+            elif cf_rating_actual >= 1400: cf_color = 'cyan'
+            elif cf_rating_actual >= 1200: cf_color = 'green'
             
             coders.append({
                 'id': id,
                 'name': row['name'],
                 'cf_handle': row['cf'],
-                'cf_rating': cf_rating_actual,
+                'cf_color': cf_color,
                 'cc_handle': row.get('cc', ''),
                 'atcoder_handle': row.get('atcoder', ''),
                 'score': score
