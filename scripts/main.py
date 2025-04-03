@@ -43,22 +43,63 @@ def get_atcoder_rating(handle):
                 last_change = parser.isoparse(last_rated_contest['EndTime']).timestamp()
                 time_gap = datetime.now().timestamp() - last_change
                 days_gap = time_gap // 86400  # Convert seconds to days
-                print(f"Last AtCoder contest of {handle}: {int(days_gap)} days ago")
+                # print(f"Last AtCoder contest of {handle}: {int(days_gap)} days ago")
                 rating_actual = last_rated_contest['NewRating']
                 rating = rating_actual
                 if days_gap > 30:
                     rating = 0
                 return rating, rating_actual
             else:
-                print(f"No rated ATC contest history found for {handle}")
+                # print(f"No rated ATC contest history found for {handle}")
                 return [0, 0]
         else:
-            print(f"Error fetching AtCoder rating for {handle}: {response.status_code}")
+            # print(f"Error fetching AtCoder rating for {handle}: {response.status_code}")
             return [0, 0]
     except Exception as e:
-        print(f"Exception: Error fetching AtCoder rating for {handle}: {str(e)}")
+        # print(f"Exception: Error fetching AtCoder rating for {handle}: {str(e)}")
         return [0, 0]
     
+
+def get_codechef_rating(handle):
+    if not handle or handle.strip() == '':
+        return [0, 0]  # Return early if handle is empty
+    
+    try:
+        response = requests.get(f'https://codechef-api.vercel.app/handle/{handle}', timeout=10)
+        if response.status_code == 200:
+            data = response.json()
+            if 'ratingData' in data and len(data['ratingData']) > 0:
+                # Get the most recent rating data
+                last_rating_data = data['ratingData'][-1]
+                rating_actual = int(last_rating_data.get('rating', 0))
+                
+                # Parse end_date to calculate days since last contest
+                if 'end_date' in last_rating_data:
+                    end_date = last_rating_data['end_date']
+                    # Parse date in format "2025-04-02 22:00:00"
+                    last_change = datetime.strptime(end_date, "%Y-%m-%d %H:%M:%S").timestamp()
+                    time_gap = datetime.now().timestamp() - last_change
+                    days_gap = time_gap // 86400  # Convert seconds to days
+                    print(f"Last CodeChef contest of {handle}: {int(days_gap)} days ago")
+                    
+                    # Apply similar decay rule as AtCoder
+                    rating = rating_actual
+                    if days_gap > 30:
+                        rating = 0
+                    return rating, rating_actual
+                else:
+                    # If no end_date, assume it's current
+                    rating = rating_actual
+                    return rating, rating_actual
+            else:
+                print(f"No rating found for CodeChef handle: {handle}")
+                return [0, 0]
+        else:
+            print(f"Error fetching CodeChef rating for {handle}: {response.status_code}")
+            return [0, 0]
+    except Exception as e:
+        print(f"Exception: Error fetching CodeChef rating for {handle}: {str(e)}")
+        return [0, 0]
 
 def process_data():
     coders = []
@@ -100,12 +141,25 @@ def process_data():
             elif atc_rating_actual > 800: atc_color = 'green'
             elif atc_rating_actual > 400: atc_color = 'brown'
 
+            # Processing CodeChef ratings
+            cc_rating, cc_rating_actual = get_codechef_rating(row['cc'])
+            cc_score = (cc_rating * 30) / 1600
+            score += cc_score
+
+            cc_color = 'gray'
+            if cc_rating_actual >= 2200: cc_color = 'red'
+            elif cc_rating_actual >= 2000: cc_color = 'orange'
+            elif cc_rating_actual >= 1800: cc_color = 'cyan'
+            elif cc_rating_actual >= 1600: cc_color = 'blue'
+            elif cc_rating_actual >= 1400: cc_color = 'green'
+
             coders.append({
                 'id': id,
                 'name': row['name'],
                 'cf_handle': row['cf'],
                 'cf_color': cf_color,
                 'cc_handle': row.get('cc', ''),
+                'cc_color': cc_color,
                 'atcoder_handle': row.get('atcoder', ''),
                 'atc_color': atc_color,
                 'score': score
