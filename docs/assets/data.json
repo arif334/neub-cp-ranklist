@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2025-04-03 15:44:38",
-    "total_coders": 32
+    "last_updated": "2025-04-04 00:52:54",
+    "total_coders": 33
   },
   "data": [
     {
@@ -353,6 +353,17 @@
       "cc_handle": "pritha82",
       "cc_color": "gray",
       "atcoder_handle": "Pritha_",
+      "atc_color": "gray",
+      "score": 10.0
+    },
+    {
+      "id": "0562320005101030",
+      "name": "Sumaiya Jannat",
+      "cf_handle": "Jannat_Sumaiya",
+      "cf_color": "gray",
+      "cc_handle": "Jannat_22",
+      "cc_color": "gray",
+      "atcoder_handle": "Jannat_Sumaiya",
       "atc_color": "gray",
       "score": 10.0
     }
