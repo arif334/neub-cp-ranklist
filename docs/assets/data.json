@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-04-08 00:52:54",
+    "last_updated": "2025-04-09 00:53:18",
     "total_coders": 34
   },
   "data": [
@@ -60,6 +60,17 @@
       "score": 56.90144230769231
     },
     {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 55.76778846153846
+    },
+    {
       "id": "0562310005101031",
       "name": "Jakaria Chowdhury Tajwone",
       "cf_handle": "tajwone17",
@@ -91,17 +102,6 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 40.14791666666667
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 39.66153846153846
     },
     {
       "id": "0562310005101015",
