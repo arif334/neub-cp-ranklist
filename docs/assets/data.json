@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-04-09 00:53:18",
+    "last_updated": "2025-04-10 00:53:18",
     "total_coders": 34
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 81.89407051282052
+      "score": 82.09198717948718
     },
     {
       "id": "0562220005101039",
@@ -27,6 +27,17 @@
       "score": 76.57932692307692
     },
     {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam ",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "green",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 75.38060897435898
+    },
+    {
       "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
@@ -35,18 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 71.75064102564102
-    },
-    {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam ",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "gray",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 70.16810897435897
+      "score": 71.88814102564103
     },
     {
       "id": "Faculty",
@@ -68,7 +68,29 @@
       "cc_color": "gray",
       "atcoder_handle": "Bushra24",
       "atc_color": "gray",
-      "score": 55.76778846153846
+      "score": 53.92820512820513
+    },
+    {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "Murad78",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
+      "atc_color": "gray",
+      "score": 53.615064102564105
+    },
+    {
+      "id": "05624205101063",
+      "name": "Sandip Paul",
+      "cf_handle": "NotThe_ChosenOne",
+      "cf_color": "gray",
+      "cc_handle": "akatsuki_2005",
+      "cc_color": "gray",
+      "atcoder_handle": "THE_AKATSUKI",
+      "atc_color": "gray",
+      "score": 47.61458333333333
     },
     {
       "id": "0562310005101031",
@@ -79,7 +101,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 42.98461538461538
+      "score": 43.58461538461538
     },
     {
       "id": "05624205101051",
@@ -93,17 +115,6 @@
       "score": 40.170512820512826
     },
     {
-      "id": "05624205101063",
-      "name": "Sandip Paul",
-      "cf_handle": "NotThe_ChosenOne",
-      "cf_color": "gray",
-      "cc_handle": "akatsuki_2005",
-      "cc_color": "gray",
-      "atcoder_handle": "THE_AKATSUKI",
-      "atc_color": "gray",
-      "score": 40.14791666666667
-    },
-    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -112,18 +123,18 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 39.16666666666667
+      "score": 38.5
     },
     {
-      "id": "0562410005101017",
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
+      "id": "0562410005101022",
+      "name": "Jadab Lal Sarkar",
+      "cf_handle": "jadab_691",
       "cf_color": "gray",
-      "cc_handle": "olyahmed_680",
+      "cc_handle": "no",
       "cc_color": "gray",
-      "atcoder_handle": "olyahmed_680",
+      "atcoder_handle": "no",
       "atc_color": "gray",
-      "score": 37.52564102564103
+      "score": 37.9
     },
     {
       "id": "05624205101026",
@@ -145,7 +156,7 @@
       "cc_color": "blue",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 36.386538461538464
+      "score": 36.292788461538464
     },
     {
       "id": "0562220005101006",
@@ -159,37 +170,15 @@
       "score": 36.06410256410256
     },
     {
-      "id": "0562410005101022",
-      "name": "Jadab Lal Sarkar",
-      "cf_handle": "jadab_691",
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
       "cf_color": "gray",
-      "cc_handle": "no",
+      "cc_handle": "olyahmed_680",
       "cc_color": "gray",
-      "atcoder_handle": "no",
+      "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 35.33333333333333
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "Murad78",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 28.087980769230768
-    },
-    {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
-      "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
-      "atc_color": "gray",
-      "score": 26.675
+      "score": 35.19230769230769
     },
     {
       "id": "05620205101064",
@@ -200,7 +189,29 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 23.866666666666667
+      "score": 31.533333333333335
+    },
+    {
+      "id": "0562320005101030",
+      "name": "Sumaiya Jannat",
+      "cf_handle": "Jannat_Sumaiya",
+      "cf_color": "gray",
+      "cc_handle": "Jannat_22",
+      "cc_color": "gray",
+      "atcoder_handle": "Jannat_Sumaiya",
+      "atc_color": "gray",
+      "score": 29.466666666666665
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
+      "cf_color": "gray",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
+      "atc_color": "gray",
+      "score": 27.05
     },
     {
       "id": "0562310005101012",
@@ -353,17 +364,6 @@
       "cc_handle": "asha_134",
       "cc_color": "gray",
       "atcoder_handle": "x",
-      "atc_color": "gray",
-      "score": 9.0
-    },
-    {
-      "id": "0562320005101030",
-      "name": "Sumaiya Jannat",
-      "cf_handle": "Jannat_Sumaiya",
-      "cf_color": "gray",
-      "cc_handle": "Jannat_22",
-      "cc_color": "gray",
-      "atcoder_handle": "Jannat_Sumaiya",
       "atc_color": "gray",
       "score": 9.0
     },
