@@ -65,7 +65,7 @@ def get_codechef_rating(handle):
         return [0, 0]  # Return early if handle is empty
     
     try:
-        response = requests.get(f'https://codechef-api.vercel.app/handle/{handle}', timeout=10)
+        response = requests.get(f'https://codechef-api.vercel.app/handle/{handle}', timeout=15)
         if response.status_code == 200:
             data = response.json()
             if 'ratingData' in data and len(data['ratingData']) > 0:
