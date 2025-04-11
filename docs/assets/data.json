@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-04-11 00:44:01",
+    "last_updated": "2025-04-11 00:52:06",
     "total_coders": 34
   },
   "data": [
@@ -38,6 +38,17 @@
       "score": 74.38060897435898
     },
     {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 71.88814102564103
+    },
+    {
       "id": "0562410005101022",
       "name": "Jadab Lal Sarkar",
       "cf_handle": "jadab_691",
@@ -47,17 +58,6 @@
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
       "score": 57.36875
-    },
-    {
-      "id": "Faculty",
-      "name": "Arif Ahmad",
-      "cf_handle": "Punter",
-      "cf_color": "gray",
-      "cc_handle": "arif334",
-      "cc_color": "gray",
-      "atcoder_handle": "arif334",
-      "atc_color": "gray",
-      "score": 56.90144230769231
     },
     {
       "id": "0562220005101016",
@@ -102,17 +102,6 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 47.61458333333333
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 46.42564102564103
     },
     {
       "id": "0562310005101031",
@@ -179,6 +168,17 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 35.19230769230769
+    },
+    {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_color": "gray",
+      "cc_handle": "arif334",
+      "cc_color": "gray",
+      "atcoder_handle": "arif334",
+      "atc_color": "gray",
+      "score": 32.207692307692305
     },
     {
       "id": "05620205101064",
