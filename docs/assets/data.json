@@ -1,19 +1,19 @@
 {
   "meta": {
-    "last_updated": "2025-04-25 00:55:00",
-    "total_coders": 34
+    "last_updated": "2025-04-26 00:53:06",
+    "total_coders": 33
   },
   "data": [
     {
       "id": "210303020016",
       "name": "Mahfuz Ibne Syful",
       "cf_handle": "Mahfuz2411",
-      "cf_color": "gray",
+      "cf_color": "green",
       "cc_handle": "Mahfuz2411",
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 88.92996794871794
+      "score": 90.76330128205129
     },
     {
       "id": "0562220005101039",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 78.71474358974359
+      "score": 79.28141025641025
     },
     {
       "id": "Alumni",
@@ -35,7 +35,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 77.89310897435897
+      "score": 76.72644230769231
     },
     {
       "id": "05624205101055",
@@ -57,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 74.25897435897436
+      "score": 73.15897435897436
     },
     {
       "id": "0562310005101031",
@@ -68,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 70.61378205128204
+      "score": 71.34711538461538
     },
     {
       "id": "0562410005101022",
@@ -102,6 +102,17 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 55.94519230769231
+    },
+    {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 55.37307692307692
     },
     {
       "id": "0562410005101017",
@@ -159,17 +170,6 @@
       "score": 38.48205128205128
     },
     {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 38.12307692307692
-    },
-    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -178,7 +178,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 37.6
+      "score": 37.2
     },
     {
       "id": "05624205101026",
@@ -200,7 +200,7 @@
       "cc_color": "gray",
       "atcoder_handle": "hrithik_79",
       "atc_color": "gray",
-      "score": 34.03333333333333
+      "score": 30.8
     },
     {
       "id": "0562320005101030",
@@ -269,17 +269,6 @@
       "score": 8.0
     },
     {
-      "id": "0562410005101028",
-      "name": "Redwan Hussan ",
-      "cf_handle": "red_001",
-      "cf_color": "gray",
-      "cc_handle": "redwan_1",
-      "cc_color": "gray",
-      "atcoder_handle": "redwan_10",
-      "atc_color": "gray",
-      "score": 8.0
-    },
-    {
       "id": "0562410005101045",
       "name": "Pritha Rani Mojumder",
       "cf_handle": "Pritha_",
@@ -289,72 +278,6 @@
       "atcoder_handle": "Pritha_",
       "atc_color": "gray",
       "score": 7.207692307692308
-    },
-    {
-      "id": "05624205101029",
-      "name": "Abhijit Kar Bappi ",
-      "cf_handle": "Shunsui_A",
-      "cf_color": "gray",
-      "cc_handle": "shunsui_a",
-      "cc_color": "gray",
-      "atcoder_handle": "Shunsui_13",
-      "atc_color": "gray",
-      "score": 7.092307692307692
-    },
-    {
-      "id": "05624205101018",
-      "name": "Rysa Hoque Chowdhury",
-      "cf_handle": "CodeCrushers01",
-      "cf_color": "gray",
-      "cc_handle": "codecrushers03",
-      "cc_color": "gray",
-      "atcoder_handle": "CodeCrushers",
-      "atc_color": "gray",
-      "score": 7.0
-    },
-    {
-      "id": "0562310005101027",
-      "name": "Ahsan Habib Nayef",
-      "cf_handle": "ahnayef",
-      "cf_color": "gray",
-      "cc_handle": "ahnayef",
-      "cc_color": "gray",
-      "atcoder_handle": "none",
-      "atc_color": "gray",
-      "score": 7.0
-    },
-    {
-      "id": "0562310005101045",
-      "name": "Mst. Fahimajjaman Jaina",
-      "cf_handle": "fahimajaina765",
-      "cf_color": "gray",
-      "cc_handle": "fahima_jaina",
-      "cc_color": "gray",
-      "atcoder_handle": "Fahima_jaina",
-      "atc_color": "gray",
-      "score": 7.0
-    },
-    {
-      "id": "0562410005101001",
-      "name": "Tanjeda Tanha Sumaiya",
-      "cf_handle": "tanje_001",
-      "cf_color": "gray",
-      "cc_handle": "kine_wolf_45",
-      "cc_color": "gray",
-      "atcoder_handle": "sumo_19",
-      "atc_color": "gray",
-      "score": 7.0
-    },
-    {
-      "id": "0562410005101009",
-      "name": "Halima Akther Mou",
-      "cf_handle": "halimaAkther",
-      "cf_color": "gray",
-      "cc_handle": "Halima Akther ",
-      "cc_color": "gray",
-      "atcoder_handle": "Mou_004",
-      "atc_color": "gray",
-      "score": 7.0
     },
     {
       "id": "0562410005101027",
@@ -368,15 +291,81 @@
       "score": 7.0
     },
     {
-      "id": "0562410005101031",
-      "name": "Nazmin Ara Asha",
-      "cf_handle": "asha_n13",
+      "id": "0562410005101028",
+      "name": "Redwan Hussan ",
+      "cf_handle": "red_001",
       "cf_color": "gray",
-      "cc_handle": "asha_134",
+      "cc_handle": "redwan_1",
       "cc_color": "gray",
-      "atcoder_handle": "x",
+      "atcoder_handle": "redwan_10",
       "atc_color": "gray",
       "score": 7.0
+    },
+    {
+      "id": "05624205101029",
+      "name": "Abhijit Kar Bappi ",
+      "cf_handle": "Shunsui_A",
+      "cf_color": "gray",
+      "cc_handle": "shunsui_a",
+      "cc_color": "gray",
+      "atcoder_handle": "Shunsui_13",
+      "atc_color": "gray",
+      "score": 6.092307692307692
+    },
+    {
+      "id": "05624205101018",
+      "name": "Rysa Hoque Chowdhury",
+      "cf_handle": "CodeCrushers01",
+      "cf_color": "gray",
+      "cc_handle": "codecrushers03",
+      "cc_color": "gray",
+      "atcoder_handle": "CodeCrushers",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "0562310005101027",
+      "name": "Ahsan Habib Nayef",
+      "cf_handle": "ahnayef",
+      "cf_color": "gray",
+      "cc_handle": "ahnayef",
+      "cc_color": "gray",
+      "atcoder_handle": "none",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "0562310005101045",
+      "name": "Mst. Fahimajjaman Jaina",
+      "cf_handle": "fahimajaina765",
+      "cf_color": "gray",
+      "cc_handle": "fahima_jaina",
+      "cc_color": "gray",
+      "atcoder_handle": "Fahima_jaina",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "0562410005101001",
+      "name": "Tanjeda Tanha Sumaiya",
+      "cf_handle": "tanje_001",
+      "cf_color": "gray",
+      "cc_handle": "kine_wolf_45",
+      "cc_color": "gray",
+      "atcoder_handle": "sumo_19",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "0562410005101009",
+      "name": "Halima Akther Mou",
+      "cf_handle": "halimaAkther",
+      "cf_color": "gray",
+      "cc_handle": "Halima Akther ",
+      "cc_color": "gray",
+      "atcoder_handle": "Mou_004",
+      "atc_color": "gray",
+      "score": 6.0
     }
   ]
 }
