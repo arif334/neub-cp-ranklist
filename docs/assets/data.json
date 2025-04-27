@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-04-26 00:53:06",
+    "last_updated": "2025-04-27 00:56:25",
     "total_coders": 33
   },
   "data": [
@@ -115,6 +115,17 @@
       "score": 55.37307692307692
     },
     {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 54.344551282051285
+    },
+    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -157,17 +168,6 @@
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
       "score": 40.18926282051282
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 38.48205128205128
     },
     {
       "id": "0562310005101015",
