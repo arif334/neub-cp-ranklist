@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-04-27 00:56:25",
+    "last_updated": "2025-04-28 00:55:30",
     "total_coders": 33
   },
   "data": [
@@ -12,8 +12,8 @@
       "cc_handle": "Mahfuz2411",
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
-      "atc_color": "gray",
-      "score": 90.76330128205129
+      "atc_color": "brown",
+      "score": 93.80945512820512
     },
     {
       "id": "0562220005101039",
@@ -101,7 +101,7 @@
       "cc_color": "gray",
       "atcoder_handle": "arif334",
       "atc_color": "gray",
-      "score": 55.94519230769231
+      "score": 56.42980769230769
     },
     {
       "id": "0562220005101016",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Bushra24",
       "atc_color": "gray",
-      "score": 55.37307692307692
+      "score": 55.62692307692308
     },
     {
       "id": "0562220005101006",
@@ -123,7 +123,7 @@
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
       "atc_color": "gray",
-      "score": 54.344551282051285
+      "score": 54.4599358974359
     },
     {
       "id": "0562410005101017",
@@ -236,17 +236,6 @@
       "score": 9.0
     },
     {
-      "id": "0562410005101012",
-      "name": "Mst Tamanna Begum",
-      "cf_handle": "btamanna012 ",
-      "cf_color": "gray",
-      "cc_handle": "tamanna454",
-      "cc_color": "gray",
-      "atcoder_handle": "tamanna454",
-      "atc_color": "gray",
-      "score": 8.092307692307692
-    },
-    {
       "id": "0562410005101013",
       "name": "Mst Tasnima Begum",
       "cf_handle": "tasnima_13",
@@ -254,6 +243,17 @@
       "cc_handle": "tasnima13",
       "cc_color": "gray",
       "atcoder_handle": "tasnima13",
+      "atc_color": "gray",
+      "score": 8.23076923076923
+    },
+    {
+      "id": "0562410005101012",
+      "name": "Mst Tamanna Begum",
+      "cf_handle": "btamanna012 ",
+      "cf_color": "gray",
+      "cc_handle": "tamanna454",
+      "cc_color": "gray",
+      "atcoder_handle": "tamanna454",
       "atc_color": "gray",
       "score": 8.092307692307692
     },
