@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-01 01:00:36",
+    "last_updated": "2025-05-01 14:33:06",
     "total_coders": 33
   },
   "data": [
@@ -12,7 +12,7 @@
       "cc_handle": "Mahfuz2411",
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
-      "atc_color": "brown",
+      "atc_color": "#804000",
       "score": 93.35945512820513
     },
     {
@@ -60,6 +60,17 @@
       "score": 72.44935897435897
     },
     {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 71.92003205128205
+    },
+    {
       "id": "0562410005101034",
       "name": "Md. Murad Ahmed Tahmim",
       "cf_handle": "Murad78",
@@ -91,17 +102,6 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 53.829807692307696
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 53.634935897435895
     },
     {
       "id": "05620205101064",
@@ -137,17 +137,6 @@
       "score": 47.69679487179487
     },
     {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "gray",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 45.35128205128205
-    },
-    {
       "id": "05624205101051",
       "name": "Prodipta Shakar Das Akash",
       "cf_handle": "Das_Akash1",
@@ -157,6 +146,17 @@
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
       "score": 40.18926282051282
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 38.59743589743589
     },
     {
       "id": "0562310005101015",

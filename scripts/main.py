@@ -65,7 +65,7 @@ def get_codechef_rating(handle):
         return [0, 0]  # Return early if handle is empty
     
     try:
-        response = requests.get(f'https://codechef-api.vercel.app/handle/{handle}', timeout=15)
+        response = requests.get(f'https://codechef-api.vercel.app/handle/{handle}', timeout=20)
         if response.status_code == 200:
             data = response.json()
             if 'ratingData' in data and len(data['ratingData']) > 0:
@@ -132,14 +132,21 @@ def process_data():
             atc_score = (atc_rating * 30) / 1300
             score += atc_score
 
-            atc_color = 'gray'
-            if atc_rating_actual > 2800: atc_color = 'red'
-            elif atc_rating_actual > 2400: atc_color = 'orange'
-            elif atc_rating_actual > 2000: atc_color = 'yellow'
-            elif atc_rating_actual > 1600: atc_color = 'blue'
-            elif atc_rating_actual > 1000: atc_color = 'lightblue'
-            elif atc_rating_actual > 800: atc_color = 'green'
-            elif atc_rating_actual > 400: atc_color = 'brown'
+            atc_color = 'gray'  # Default color for unrated users
+            if atc_rating_actual >= 2800: 
+                atc_color = '#FF0000'  # Red
+            elif atc_rating_actual >= 2400: 
+                atc_color = '#FF8000'  # Orange
+            elif atc_rating_actual >= 2000: 
+                atc_color = '#C0C000'  # Yellow
+            elif atc_rating_actual >= 1600: 
+                atc_color = '#0000FF'  # Blue
+            elif atc_rating_actual >= 1200: 
+                atc_color = '#00C0C0'  # Cyan
+            elif atc_rating_actual >= 800: 
+                atc_color = '#008000'  # Green
+            elif atc_rating_actual >= 400: 
+                atc_color = '#804000'  # Brown
 
             # Processing CodeChef ratings
             cc_rating, cc_rating_actual = get_codechef_rating(row['cc'])
