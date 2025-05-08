@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-07 00:56:10",
+    "last_updated": "2025-05-08 00:56:24",
     "total_coders": 33
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 91.51330128205129
+      "score": 92.1320512820513
     },
     {
       "id": "Alumni",
@@ -24,18 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 78.17435897435898
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 76.7375
+      "score": 77.89310897435898
     },
     {
       "id": "0562220005101039",
@@ -49,17 +38,6 @@
       "score": 75.59166666666667
     },
     {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 72.00208333333333
-    },
-    {
       "id": "05624205101055",
       "name": "Md Ajharul Islam ",
       "cf_handle": "saklan",
@@ -68,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 71.64166666666667
+      "score": 71.22916666666667
     },
     {
       "id": "0562410005101034",
@@ -79,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 61.30432692307692
+      "score": 61.75432692307692
     },
     {
       "id": "0562410005101022",
@@ -93,6 +71,17 @@
       "score": 59.589903846153845
     },
     {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 54.26682692307692
+    },
+    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -102,6 +91,17 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 53.829807692307696
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 53.822435897435895
     },
     {
       "id": "05620205101064",
@@ -123,7 +123,18 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 51.474358974358964
+      "score": 51.79310897435897
+    },
+    {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 50.6
     },
     {
       "id": "05624205101063",
@@ -134,29 +145,18 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 47.69679487179487
+      "score": 48.03429487179487
     },
     {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
       "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
+      "cc_handle": "tajwone_17",
       "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
+      "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 38.59743589743589
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 36.92307692307692
+      "score": 45.43333333333333
     },
     {
       "id": "0562310005101015",
@@ -200,7 +200,7 @@
       "cc_color": "gray",
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 28.196634615384617
+      "score": 28.440384615384616
     },
     {
       "id": "05624205101026",
