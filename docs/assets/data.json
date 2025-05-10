@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-09 00:55:54",
+    "last_updated": "2025-05-10 00:53:48",
     "total_coders": 33
   },
   "data": [
@@ -115,17 +115,6 @@
       "score": 51.943749999999994
     },
     {
-      "id": "05624205101063",
-      "name": "Sandip Paul",
-      "cf_handle": "NotThe_ChosenOne",
-      "cf_color": "gray",
-      "cc_handle": "akatsuki_2005",
-      "cc_color": "gray",
-      "atcoder_handle": "THE_AKATSUKI",
-      "atc_color": "gray",
-      "score": 48.0676282051282
-    },
-    {
       "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
@@ -181,17 +170,6 @@
       "score": 30.9
     },
     {
-      "id": "0562320005101030",
-      "name": "Sumaiya Jannat",
-      "cf_handle": "Jannat_Sumaiya",
-      "cf_color": "gray",
-      "cc_handle": "Jannat_22",
-      "cc_color": "gray",
-      "atcoder_handle": "Jannat_Sumaiya",
-      "atc_color": "gray",
-      "score": 28.666666666666668
-    },
-    {
       "id": "05624205101061",
       "name": "Sudip Paul",
       "cf_handle": "WhatADrag\u2026",
@@ -201,6 +179,17 @@
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 28.440384615384616
+    },
+    {
+      "id": "05624205101063",
+      "name": "Sandip Paul",
+      "cf_handle": "NotThe_ChosenOne",
+      "cf_color": "gray",
+      "cc_handle": "akatsuki_2005",
+      "cc_color": "gray",
+      "atcoder_handle": "THE_AKATSUKI",
+      "atc_color": "gray",
+      "score": 27.00096153846154
     },
     {
       "id": "05624205101026",
@@ -247,26 +236,15 @@
       "score": 8.0
     },
     {
-      "id": "0562410005101013",
-      "name": "Mst Tasnima Begum",
-      "cf_handle": "tasnima_13",
+      "id": "0562320005101030",
+      "name": "Sumaiya Jannat",
+      "cf_handle": "Jannat_Sumaiya",
       "cf_color": "gray",
-      "cc_handle": "tasnima13",
+      "cc_handle": "Jannat_22",
       "cc_color": "gray",
-      "atcoder_handle": "tasnima13",
+      "atcoder_handle": "Jannat_Sumaiya",
       "atc_color": "gray",
-      "score": 7.230769230769231
-    },
-    {
-      "id": "0562410005101012",
-      "name": "Mst Tamanna Begum",
-      "cf_handle": "btamanna012 ",
-      "cf_color": "gray",
-      "cc_handle": "tamanna454",
-      "cc_color": "gray",
-      "atcoder_handle": "tamanna454",
-      "atc_color": "gray",
-      "score": 7.0
+      "score": 8.0
     },
     {
       "id": "0562410005101027",
@@ -291,6 +269,50 @@
       "score": 7.0
     },
     {
+      "id": "0562410005101013",
+      "name": "Mst Tasnima Begum",
+      "cf_handle": "tasnima_13",
+      "cf_color": "gray",
+      "cc_handle": "tasnima13",
+      "cc_color": "gray",
+      "atcoder_handle": "tasnima13",
+      "atc_color": "gray",
+      "score": 6.230769230769231
+    },
+    {
+      "id": "05624205101029",
+      "name": "Abhijit Kar Bappi ",
+      "cf_handle": "Shunsui_A",
+      "cf_color": "gray",
+      "cc_handle": "shunsui_a",
+      "cc_color": "gray",
+      "atcoder_handle": "Shunsui_13",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "0562410005101001",
+      "name": "Tanjeda Tanha Sumaiya",
+      "cf_handle": "tanje_001",
+      "cf_color": "gray",
+      "cc_handle": "kine_wolf_45",
+      "cc_color": "gray",
+      "atcoder_handle": "sumo_19",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "0562410005101012",
+      "name": "Mst Tamanna Begum",
+      "cf_handle": "btamanna012 ",
+      "cf_color": "gray",
+      "cc_handle": "tamanna454",
+      "cc_color": "gray",
+      "atcoder_handle": "tamanna454",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
       "id": "0562410005101045",
       "name": "Pritha Rani Mojumder",
       "cf_handle": "Pritha_",
@@ -313,17 +335,6 @@
       "score": 5.0
     },
     {
-      "id": "05624205101029",
-      "name": "Abhijit Kar Bappi ",
-      "cf_handle": "Shunsui_A",
-      "cf_color": "gray",
-      "cc_handle": "shunsui_a",
-      "cc_color": "gray",
-      "atcoder_handle": "Shunsui_13",
-      "atc_color": "gray",
-      "score": 5.0
-    },
-    {
       "id": "0562310005101027",
       "name": "Ahsan Habib Nayef",
       "cf_handle": "ahnayef",
@@ -342,17 +353,6 @@
       "cc_handle": "fahima_jaina",
       "cc_color": "gray",
       "atcoder_handle": "Fahima_jaina",
-      "atc_color": "gray",
-      "score": 5.0
-    },
-    {
-      "id": "0562410005101001",
-      "name": "Tanjeda Tanha Sumaiya",
-      "cf_handle": "tanje_001",
-      "cf_color": "gray",
-      "cc_handle": "kine_wolf_45",
-      "cc_color": "gray",
-      "atcoder_handle": "sumo_19",
       "atc_color": "gray",
       "score": 5.0
     },
