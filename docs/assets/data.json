@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-11 00:59:54",
+    "last_updated": "2025-05-12 00:58:54",
     "total_coders": 33
   },
   "data": [
@@ -46,7 +46,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 72.29375
+      "score": 70.72708333333334
     },
     {
       "id": "05624205101055",
@@ -57,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 71.32916666666667
+      "score": 67.79583333333333
     },
     {
       "id": "0562410005101034",
@@ -79,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
-      "score": 59.78990384615385
+      "score": 58.62323717948718
     },
     {
       "id": "Faculty",
@@ -137,6 +137,17 @@
       "score": 38.63076923076923
     },
     {
+      "id": "0562310005101015",
+      "name": "Kushal Panthadas",
+      "cf_handle": "Kushal_151",
+      "cf_color": "gray",
+      "cc_handle": "PANDA_151",
+      "cc_color": "gray",
+      "atcoder_handle": "Kushal_15",
+      "atc_color": "gray",
+      "score": 38.2
+    },
+    {
       "id": "0562220005101016",
       "name": "Fabiha Bushra Chowdhury",
       "cf_handle": "bushrachowdhury24",
@@ -146,17 +157,6 @@
       "atcoder_handle": "Bushra24",
       "atc_color": "gray",
       "score": 37.1
-    },
-    {
-      "id": "0562310005101015",
-      "name": "Kushal Panthadas",
-      "cf_handle": "Kushal_151",
-      "cf_color": "gray",
-      "cc_handle": "PANDA_151",
-      "cc_color": "gray",
-      "atcoder_handle": "Kushal_15",
-      "atc_color": "gray",
-      "score": 37.0
     },
     {
       "id": "0562310005101012",
