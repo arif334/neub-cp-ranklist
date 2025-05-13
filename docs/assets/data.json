@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-12 00:58:54",
+    "last_updated": "2025-05-13 00:56:36",
     "total_coders": 33
   },
   "data": [
@@ -36,17 +36,6 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 75.625
-    },
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 70.72708333333334
     },
     {
       "id": "05624205101055",
@@ -93,6 +82,17 @@
       "score": 53.89647435897436
     },
     {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 53.85576923076923
+    },
+    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -126,15 +126,15 @@
       "score": 46.46666666666667
     },
     {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
       "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
+      "cc_handle": "tajwone_17",
       "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
+      "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 38.63076923076923
+      "score": 43.93333333333334
     },
     {
       "id": "0562310005101015",
