@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-14 00:56:00",
+    "last_updated": "2025-05-15 00:55:06",
     "total_coders": 33
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 92.22163461538462
+      "score": 91.69663461538462
     },
     {
       "id": "Alumni",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 78.09310897435897
+      "score": 77.92435897435897
     },
     {
       "id": "0562220005101039",
@@ -57,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 67.79583333333333
+      "score": 68.11458333333333
     },
     {
       "id": "0562410005101034",
@@ -68,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 62.09535256410257
+      "score": 63.08910256410256
     },
     {
       "id": "0562410005101022",
@@ -93,17 +93,6 @@
       "score": 53.89647435897436
     },
     {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
-      "score": 51.943749999999994
-    },
-    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -124,17 +113,6 @@
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
       "score": 46.46666666666667
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 38.63076923076923
     },
     {
       "id": "0562310005101015",
@@ -190,6 +168,39 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 27.00096153846154
+    },
+    {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 25.54375
+    },
+    {
+      "id": "0562410005101028",
+      "name": "Redwan Hussan ",
+      "cf_handle": "red_001",
+      "cf_color": "gray",
+      "cc_handle": "redwan_1",
+      "cc_color": "gray",
+      "atcoder_handle": "redwan_10",
+      "atc_color": "gray",
+      "score": 21.0625
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 11.53076923076923
     },
     {
       "id": "05624205101026",
@@ -254,17 +265,6 @@
       "cc_handle": "st_noor",
       "cc_color": "gray",
       "atcoder_handle": "St_noor",
-      "atc_color": "gray",
-      "score": 7.0
-    },
-    {
-      "id": "0562410005101028",
-      "name": "Redwan Hussan ",
-      "cf_handle": "red_001",
-      "cf_color": "gray",
-      "cc_handle": "redwan_1",
-      "cc_color": "gray",
-      "atcoder_handle": "redwan_10",
       "atc_color": "gray",
       "score": 7.0
     },
