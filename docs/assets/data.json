@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-16 00:57:00",
+    "last_updated": "2025-05-17 00:55:05",
     "total_coders": 33
   },
   "data": [
@@ -82,6 +82,17 @@
       "score": 58.577083333333334
     },
     {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 54.44375
+    },
+    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -124,17 +135,6 @@
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
       "score": 38.2
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 37.1
     },
     {
       "id": "0562310005101012",
