@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-19 00:57:24",
+    "last_updated": "2025-05-20 00:57:18",
     "total_coders": 30
   },
   "data": [
@@ -25,17 +25,6 @@
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
       "score": 77.92435897435897
-    },
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 72.92708333333333
     },
     {
       "id": "05624205101055",
@@ -102,6 +91,17 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 47.2
+    },
+    {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "gray",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 46.13333333333333
     },
     {
       "id": "0562410005101022",
