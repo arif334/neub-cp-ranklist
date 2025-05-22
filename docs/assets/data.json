@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-21 00:56:42",
+    "last_updated": "2025-05-22 00:55:48",
     "total_coders": 30
   },
   "data": [
@@ -13,7 +13,18 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 91.01971153846154
+      "score": 91.15096153846153
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "green",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 73.31041666666667
     },
     {
       "id": "0562310005101031",
@@ -27,17 +38,6 @@
       "score": 72.92708333333333
     },
     {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "green",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 72.91666666666666
-    },
-    {
       "id": "05624205101055",
       "name": "Md Ajharul Islam ",
       "cf_handle": "saklan",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 70.10689102564102
+      "score": 69.20689102564103
     },
     {
       "id": "0562410005101034",
@@ -57,18 +57,18 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 61.59070512820513
+      "score": 61.946955128205126
     },
     {
-      "id": "0562410005101017",
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
       "cf_color": "gray",
-      "cc_handle": "olyahmed_680",
+      "cc_handle": "bushra_2411",
       "cc_color": "gray",
-      "atcoder_handle": "olyahmed_680",
+      "atcoder_handle": "Bushra24",
       "atc_color": "gray",
-      "score": 52.29310897435897
+      "score": 53.44375
     },
     {
       "id": "0562320005101062",
@@ -115,15 +115,15 @@
       "score": 38.2
     },
     {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
       "cf_color": "gray",
-      "cc_handle": "bushra_2411",
+      "cc_handle": "olyahmed_680",
       "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
+      "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 36.1
+      "score": 34.274358974358975
     },
     {
       "id": "05624205101051",
@@ -178,7 +178,29 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 27.8625
+      "score": 28.40625
+    },
+    {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 26.275
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 25.755769230769232
     },
     {
       "id": "0562410005101028",
@@ -189,7 +211,7 @@
       "cc_color": "gray",
       "atcoder_handle": "redwan_10",
       "atc_color": "gray",
-      "score": 20.0625
+      "score": 20.4375
     },
     {
       "id": "05624205101026",
@@ -201,28 +223,6 @@
       "atcoder_handle": "aestro01",
       "atc_color": "gray",
       "score": 11.0
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 10.53076923076923
-    },
-    {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
-      "score": 10.0
     },
     {
       "id": "05624205101062",
