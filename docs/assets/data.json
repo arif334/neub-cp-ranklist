@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-22 00:55:48",
+    "last_updated": "2025-05-23 00:55:36",
     "total_coders": 30
   },
   "data": [
@@ -71,6 +71,17 @@
       "score": 53.44375
     },
     {
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
+      "cf_color": "gray",
+      "cc_handle": "olyahmed_680",
+      "cc_color": "gray",
+      "atcoder_handle": "olyahmed_680",
+      "atc_color": "gray",
+      "score": 52.29310897435897
+    },
+    {
       "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
@@ -113,17 +124,6 @@
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
       "score": 38.2
-    },
-    {
-      "id": "0562410005101017",
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
-      "cf_color": "gray",
-      "cc_handle": "olyahmed_680",
-      "cc_color": "gray",
-      "atcoder_handle": "olyahmed_680",
-      "atc_color": "gray",
-      "score": 34.274358974358975
     },
     {
       "id": "05624205101051",
