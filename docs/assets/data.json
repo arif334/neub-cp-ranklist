@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-24 00:54:06",
+    "last_updated": "2025-05-25 01:01:54",
     "total_coders": 30
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 91.15096153846153
+      "score": 90.22788461538461
     },
     {
       "id": "Alumni",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 73.31041666666667
+      "score": 80.0411858974359
     },
     {
       "id": "0562310005101031",
@@ -35,7 +35,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 73.02708333333334
+      "score": 73.89375
     },
     {
       "id": "05624205101055",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 69.20689102564103
+      "score": 69.64022435897436
     },
     {
       "id": "0562410005101034",
@@ -58,17 +58,6 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 61.946955128205126
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 53.44375
     },
     {
       "id": "0562410005101017",
@@ -90,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 49.12820512820513
+      "score": 48.4948717948718
     },
     {
       "id": "0562220005101039",
@@ -102,6 +91,17 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 47.2
+    },
+    {
+      "id": "05624205101051",
+      "name": "Prodipta Shakar Das Akash",
+      "cf_handle": "Das_Akash1",
+      "cf_color": "gray",
+      "cc_handle": "das_akash",
+      "cc_color": "gray",
+      "atcoder_handle": "das_akash",
+      "atc_color": "gray",
+      "score": 39.93333333333334
     },
     {
       "id": "0562410005101022",
@@ -126,15 +126,15 @@
       "score": 38.33333333333333
     },
     {
-      "id": "05624205101051",
-      "name": "Prodipta Shakar Das Akash",
-      "cf_handle": "Das_Akash1",
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
       "cf_color": "gray",
-      "cc_handle": "das_akash",
+      "cc_handle": "bushra_2411",
       "cc_color": "gray",
-      "atcoder_handle": "das_akash",
+      "atcoder_handle": "Bushra24",
       "atc_color": "gray",
-      "score": 32.96666666666667
+      "score": 36.12307692307692
     },
     {
       "id": "Faculty",
@@ -280,6 +280,17 @@
       "score": 6.0
     },
     {
+      "id": "0562410005101045",
+      "name": "Pritha Rani Mojumder",
+      "cf_handle": "Pritha_",
+      "cf_color": "gray",
+      "cc_handle": "pritha82",
+      "cc_color": "gray",
+      "atcoder_handle": "Pritha_",
+      "atc_color": "gray",
+      "score": 5.323076923076923
+    },
+    {
       "id": "0562410005101013",
       "name": "Mst Tasnima Begum",
       "cf_handle": "tasnima_13",
@@ -320,17 +331,6 @@
       "cc_handle": "tamanna454",
       "cc_color": "gray",
       "atcoder_handle": "tamanna454",
-      "atc_color": "gray",
-      "score": 5.0
-    },
-    {
-      "id": "0562410005101045",
-      "name": "Pritha Rani Mojumder",
-      "cf_handle": "Pritha_",
-      "cf_color": "gray",
-      "cc_handle": "pritha82",
-      "cc_color": "gray",
-      "atcoder_handle": "Pritha_",
       "atc_color": "gray",
       "score": 5.0
     }
