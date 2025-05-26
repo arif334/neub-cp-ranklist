@@ -1,20 +1,9 @@
 {
   "meta": {
-    "last_updated": "2025-05-25 01:01:54",
+    "last_updated": "2025-05-26 00:58:36",
     "total_coders": 30
   },
   "data": [
-    {
-      "id": "210303020016",
-      "name": "Mahfuz Ibne Syful",
-      "cf_handle": "Mahfuz2411",
-      "cf_color": "green",
-      "cc_handle": "Mahfuz2411",
-      "cc_color": "green",
-      "atcoder_handle": "Mahfuz2411",
-      "atc_color": "gray",
-      "score": 90.22788461538461
-    },
     {
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
@@ -82,6 +71,17 @@
       "score": 48.4948717948718
     },
     {
+      "id": "210303020016",
+      "name": "Mahfuz Ibne Syful",
+      "cf_handle": "Mahfuz2411",
+      "cf_color": "green",
+      "cc_handle": "Mahfuz2411",
+      "cc_color": "green",
+      "atcoder_handle": "Mahfuz2411",
+      "atc_color": "gray",
+      "score": 48.42788461538461
+    },
+    {
       "id": "0562220005101039",
       "name": "Kazi Abu Sayed Jilani",
       "cf_handle": "phantomphoton_",
@@ -146,17 +146,6 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 30.158974358974362
-    },
-    {
-      "id": "0562310005101012",
-      "name": "Hrithik Dev Nath",
-      "cf_handle": "hrithik_79_",
-      "cf_color": "gray",
-      "cc_handle": "hrithik_9",
-      "cc_color": "gray",
-      "atcoder_handle": "hrithik_79",
-      "atc_color": "gray",
-      "score": 29.9
     },
     {
       "id": "05624205101061",
@@ -234,6 +223,17 @@
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 9.253846153846155
+    },
+    {
+      "id": "0562310005101012",
+      "name": "Hrithik Dev Nath",
+      "cf_handle": "hrithik_79_",
+      "cf_color": "gray",
+      "cc_handle": "hrithik_9",
+      "cc_color": "gray",
+      "atcoder_handle": "hrithik_79",
+      "atc_color": "gray",
+      "score": 8.0
     },
     {
       "id": "0562320005101063",
