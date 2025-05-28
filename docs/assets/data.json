@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-05-27 00:55:06",
+    "last_updated": "2025-05-28 00:56:54",
     "total_coders": 30
   },
   "data": [
@@ -38,6 +38,17 @@
       "score": 69.64022435897436
     },
     {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "Murad78",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
+      "atc_color": "gray",
+      "score": 62.040705128205126
+    },
+    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -57,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 48.4948717948718
+      "score": 49.194871794871794
     },
     {
       "id": "210303020016",
@@ -76,7 +87,7 @@
       "cf_handle": "phantomphoton_",
       "cf_color": "gray",
       "cc_handle": "ph4ntomphoton",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 47.2
@@ -90,18 +101,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 39.93333333333334
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "Murad78",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 39.728205128205126
+      "score": 43.5
     },
     {
       "id": "0562410005101022",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
-      "score": 38.46666666666667
+      "score": 40.36666666666667
     },
     {
       "id": "0562310005101015",
@@ -123,7 +123,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 38.33333333333333
+      "score": 38.56666666666666
     },
     {
       "id": "0562220005101016",
@@ -167,7 +167,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 28.40625
+      "score": 28.59375
     },
     {
       "id": "05620205101064",
@@ -178,7 +178,18 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 26.275
+      "score": 26.6125
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 25.755769230769232
     },
     {
       "id": "0562410005101028",
@@ -201,17 +212,6 @@
       "atcoder_handle": "aestro01",
       "atc_color": "gray",
       "score": 11.0
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 10.53076923076923
     },
     {
       "id": "05624205101062",
