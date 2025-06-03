@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-02 00:59:18",
+    "last_updated": "2025-06-03 00:57:54",
     "total_coders": 30
   },
   "data": [
@@ -115,17 +115,6 @@
       "score": 28.82451923076923
     },
     {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 27.831249999999997
-    },
-    {
       "id": "05620205101064",
       "name": "Md. Usman Ahmed Furkan",
       "cf_handle": "usmanfurkan",
@@ -135,17 +124,6 @@
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
       "score": 26.6125
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 24.8875
     },
     {
       "id": "0562410005101028",
@@ -192,6 +170,17 @@
       "score": 11.0
     },
     {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 10.9
+    },
+    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -201,6 +190,17 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 10.507692307692308
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 10.0
     },
     {
       "id": "05624205101062",
