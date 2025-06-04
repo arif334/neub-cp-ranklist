@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-03 00:57:54",
+    "last_updated": "2025-06-04 00:57:27",
     "total_coders": 30
   },
   "data": [
@@ -65,7 +65,7 @@
       "cf_handle": "tajwone17",
       "cf_color": "gray",
       "cc_handle": "tajwone_17",
-      "cc_color": "green",
+      "cc_color": "gray",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 47.1
