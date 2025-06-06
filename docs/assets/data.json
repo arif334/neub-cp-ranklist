@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-05 00:56:22",
+    "last_updated": "2025-06-06 00:55:26",
     "total_coders": 30
   },
   "data": [
@@ -137,6 +137,17 @@
       "score": 26.6125
     },
     {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 25.0375
+    },
+    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -201,17 +212,6 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 10.507692307692308
-    },
-    {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 10.0
     },
     {
       "id": "05624205101062",
