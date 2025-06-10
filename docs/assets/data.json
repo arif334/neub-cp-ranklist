@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-09 00:59:18",
+    "last_updated": "2025-06-10 00:57:48",
     "total_coders": 30
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 79.7599358974359
+      "score": 77.1599358974359
     },
     {
       "id": "05624205101055",
@@ -24,7 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 68.81490384615384
+      "score": 69.04823717948719
     },
     {
       "id": "0562410005101034",
@@ -41,12 +41,12 @@
       "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
+      "cf_color": "green",
       "cc_handle": "mahedianik2",
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 51.42820512820513
+      "score": 53.72820512820513
     },
     {
       "id": "210303020016",
@@ -68,7 +68,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 47.1
+      "score": 47.166666666666664
     },
     {
       "id": "05624205101051",
@@ -93,6 +93,17 @@
       "score": 40.36666666666667
     },
     {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 37.56666666666666
+    },
+    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -101,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 38.96666666666667
+      "score": 36.13333333333333
     },
     {
       "id": "05624205101063",
@@ -126,17 +137,6 @@
       "score": 27.924999999999997
     },
     {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
-      "score": 26.6125
-    },
-    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -148,17 +148,6 @@
       "score": 25.941346153846155
     },
     {
-      "id": "0562220005101006",
-      "name": "Lubna Yesmin",
-      "cf_handle": "Lubna_Yesmin",
-      "cf_color": "gray",
-      "cc_handle": "lubnayesmin",
-      "cc_color": "gray",
-      "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 25.0375
-    },
-    {
       "id": "0562410005101028",
       "name": "Redwan Hussan ",
       "cf_handle": "red_001",
@@ -168,6 +157,17 @@
       "atcoder_handle": "redwan_10",
       "atc_color": "gray",
       "score": 19.4375
+    },
+    {
+      "id": "0562410005101045",
+      "name": "Pritha Rani Mojumder",
+      "cf_handle": "Pritha_",
+      "cf_color": "gray",
+      "cc_handle": "pritha82",
+      "cc_color": "gray",
+      "atcoder_handle": "Pritha_",
+      "atc_color": "gray",
+      "score": 17.22307692307692
     },
     {
       "id": "05624205101061",
@@ -188,6 +188,17 @@
       "cc_handle": "aestro01",
       "cc_color": "gray",
       "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 10.0
+    },
+    {
+      "id": "0562220005101006",
+      "name": "Lubna Yesmin",
+      "cf_handle": "Lubna_Yesmin",
+      "cf_color": "gray",
+      "cc_handle": "lubnayesmin",
+      "cc_color": "gray",
+      "atcoder_handle": "LubnaYesmin",
       "atc_color": "gray",
       "score": 10.0
     },
@@ -267,17 +278,6 @@
       "atcoder_handle": "Jannat_Sumaiya",
       "atc_color": "gray",
       "score": 6.0
-    },
-    {
-      "id": "0562410005101045",
-      "name": "Pritha Rani Mojumder",
-      "cf_handle": "Pritha_",
-      "cf_color": "gray",
-      "cc_handle": "pritha82",
-      "cc_color": "gray",
-      "atcoder_handle": "Pritha_",
-      "atc_color": "gray",
-      "score": 5.323076923076923
     },
     {
       "id": "0562410005101001",
