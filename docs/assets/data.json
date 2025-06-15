@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-14 00:55:00",
+    "last_updated": "2025-06-15 01:02:43",
     "total_coders": 30
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 68.58782051282051
+      "score": 69.11858974358975
     },
     {
       "id": "0562410005101034",
@@ -35,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 63.17820512820512
+      "score": 63.06282051282051
     },
     {
       "id": "0562410005101022",
@@ -87,7 +87,7 @@
       "cf_handle": "tajwone17",
       "cf_color": "gray",
       "cc_handle": "tajwone_17",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 45.766666666666666
@@ -123,18 +123,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 29.6625
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 27.924999999999997
+      "score": 29.824038461538464
     },
     {
       "id": "Faculty",
@@ -157,17 +146,6 @@
       "atcoder_handle": "LubnaYesmin",
       "atc_color": "gray",
       "score": 25.0375
-    },
-    {
-      "id": "0562410005101028",
-      "name": "Redwan Hussan ",
-      "cf_handle": "red_001",
-      "cf_color": "gray",
-      "cc_handle": "redwan_1",
-      "cc_color": "gray",
-      "atcoder_handle": "redwan_10",
-      "atc_color": "gray",
-      "score": 19.4375
     },
     {
       "id": "0562410005101027",
@@ -201,6 +179,17 @@
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 12.0
+    },
+    {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 10.9
     },
     {
       "id": "05624205101026",
@@ -287,6 +276,17 @@
       "cc_handle": "kine_wolf_45",
       "cc_color": "gray",
       "atcoder_handle": "sumo_19",
+      "atc_color": "gray",
+      "score": 5.0
+    },
+    {
+      "id": "0562410005101028",
+      "name": "Redwan Hussan ",
+      "cf_handle": "red_001",
+      "cf_color": "gray",
+      "cc_handle": "redwan_1",
+      "cc_color": "gray",
+      "atcoder_handle": "redwan_10",
       "atc_color": "gray",
       "score": 5.0
     },
