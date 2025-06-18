@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-17 00:55:35",
+    "last_updated": "2025-06-18 00:55:34",
     "total_coders": 30
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 52.261538461538464
+      "score": 50.6
     },
     {
       "id": "Alumni",
@@ -69,17 +69,6 @@
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
       "score": 40.1
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "Murad78",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 38.61282051282051
     },
     {
       "id": "05620205101064",
@@ -170,6 +159,17 @@
       "score": 10.9
     },
     {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "Murad78",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
+      "atc_color": "gray",
+      "score": 10.246153846153845
+    },
+    {
       "id": "05624205101026",
       "name": "Tajmin Akter",
       "cf_handle": "aestro01",
@@ -211,7 +211,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 9.507692307692308
+      "score": 9.0
     },
     {
       "id": "05624205101062",
