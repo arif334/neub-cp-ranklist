@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-06-24 00:56:06",
+    "last_updated": "2025-06-25 00:56:33",
     "total_coders": 30
   },
   "data": [
@@ -14,17 +14,6 @@
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
       "score": 50.6
-    },
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "green",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "gray",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 46.6974358974359
     },
     {
       "id": "0562310005101031",
@@ -60,6 +49,17 @@
       "score": 43.5
     },
     {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "green",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "gray",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 41.06666666666667
+    },
+    {
       "id": "0562410005101022",
       "name": "Jadab Lal Sarkar",
       "cf_handle": "jadab_691",
@@ -93,17 +93,6 @@
       "score": 36.13333333333333
     },
     {
-      "id": "210303020016",
-      "name": "Mahfuz Ibne Syful",
-      "cf_handle": "Mahfuz2411",
-      "cf_color": "green",
-      "cc_handle": "Mahfuz2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Mahfuz2411",
-      "atc_color": "gray",
-      "score": 18.915384615384617
-    },
-    {
       "id": "0562410005101027",
       "name": "Sraboni Akter Tasnur",
       "cf_handle": "tasnoor",
@@ -123,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Pritha_",
       "atc_color": "gray",
-      "score": 17.22307692307692
+      "score": 16.9
     },
     {
       "id": "05624205101063",
@@ -146,6 +135,17 @@
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 12.0
+    },
+    {
+      "id": "210303020016",
+      "name": "Mahfuz Ibne Syful",
+      "cf_handle": "Mahfuz2411",
+      "cf_color": "green",
+      "cc_handle": "Mahfuz2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Mahfuz2411",
+      "atc_color": "gray",
+      "score": 11.0
     },
     {
       "id": "0562220005101016",
