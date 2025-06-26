@@ -1,7 +1,7 @@
 import csv
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 from dateutil import parser
 
@@ -101,6 +101,45 @@ def get_codechef_rating(handle):
         print(f"Exception: Error fetching CodeChef rating for {handle}: {str(e)}")
         return [0, 0]
 
+def get_codechef_rating_neub(handle):
+    """
+    Fetch CodeChef rating info from the NEUB CodeChef API.
+    API: https://neub-codechef-api.vercel.app/{handle}
+    Returns [rating, rating_actual] similar to get_codechef_rating.
+    ** API Developped by: Nayef
+    """
+    if not handle or handle.strip() == '':
+        return [0, 0]  # Return early if handle is empty
+
+    try:
+        response = requests.get(f'https://neub-codechef-api.vercel.app/api/rating/{handle}', timeout=10)
+        if response.status_code == 200:
+            info = response.json()
+            # The API returns a dict with 'rating' and 'lastUpdated' keys
+            rating_actual = int(info.get('data', {}).get('rating', 0))
+            last_contest = info.get('data', {}).get('lastUpdated', None)
+            # print(last_contest)
+            if last_contest:
+                # last_contest is expected in "YYYY-MM-DD HH:MM:SS" format
+                last_change = parser.isoparse(last_contest).timestamp()
+                time_gap = datetime.now(timezone.utc).timestamp() - last_change
+                # print(f"time_gap: {time_gap}")
+                days_gap = time_gap // 86400  # Convert seconds to days
+                print(f"Last CodeChef contest of {handle}: {int(days_gap)} days ago")
+                rating = rating_actual
+                if days_gap > 30:
+                    rating = 0
+                return rating, rating_actual
+            else:
+                # If no last_contest, assume it's current
+                return rating_actual, rating_actual
+        else:
+            print(f"Error fetching CodeChef rating (NEUB API) for {handle}: {response.status_code}")
+            return [0, 0]
+    except Exception as e:
+        print(f"Exception: Error fetching CodeChef rating (NEUB API) for {handle}: {str(e)}")
+        return [0, 0]
+
 def process_data():
     coders = []
     
@@ -149,9 +188,10 @@ def process_data():
                 atc_color = '#804000'  # Brown
 
             # Processing CodeChef ratings
-            cc_rating, cc_rating_actual = get_codechef_rating(row['cc'])
+            # cc_rating, cc_rating_actual = get_codechef_rating(row['cc'])
+            cc_rating, cc_rating_actual = get_codechef_rating_neub(row['cc'])
             cc_score = (cc_rating * 30) / 1600
-            score += cc_score
+            score = cc_score # score += cc_score -> uncomment this after experiment
 
             cc_color = 'gray'
             if cc_rating_actual >= 2200: cc_color = 'red'
