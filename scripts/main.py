@@ -117,10 +117,10 @@ def get_codechef_rating_neub(handle):
             info = response.json()
             # The API returns a dict with 'rating' and 'lastUpdated' keys
             rating_actual = int(info.get('data', {}).get('rating', 0))
-            last_contest = info.get('data', {}).get('lastUpdated', None)
+            last_contest = info.get('data', {}).get('lastContestDate', None)
             # print(last_contest)
             if last_contest:
-                # last_contest is expected in "YYYY-MM-DD HH:MM:SS" format
+                # last_contest is expected in "YYYY-MM-DD" format
                 last_change = parser.isoparse(last_contest).timestamp()
                 time_gap = datetime.now(timezone.utc).timestamp() - last_change
                 # print(f"time_gap: {time_gap}")
@@ -191,7 +191,7 @@ def process_data():
             # cc_rating, cc_rating_actual = get_codechef_rating(row['cc'])
             cc_rating, cc_rating_actual = get_codechef_rating_neub(row['cc'])
             cc_score = (cc_rating * 30) / 1600
-            score = cc_score # score += cc_score -> uncomment this after experiment
+            score += cc_score # score += cc_score -> uncomment this after experiment
 
             cc_color = 'gray'
             if cc_rating_actual >= 2200: cc_color = 'red'
