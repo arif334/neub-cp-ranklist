@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-06 18:30:10",
+    "last_updated": "2025-07-07 01:00:26",
     "total_coders": 30
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 75.68429487179488
+      "score": 77.88429487179488
     },
     {
       "id": "05624205101055",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 73.32403846153846
+      "score": 71.4573717948718
     },
     {
       "id": "0562410005101034",
@@ -79,7 +79,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 48.766666666666666
+      "score": 47.96666666666667
     },
     {
       "id": "05624205101051",
@@ -93,17 +93,6 @@
       "score": 47.766666666666666
     },
     {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 45.333333333333336
-    },
-    {
       "id": "0562220005101039",
       "name": "Kazi Abu Sayed Jilani",
       "cf_handle": "phantomphoton_",
@@ -112,7 +101,18 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 44.2
+      "score": 44.666666666666664
+    },
+    {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 44.46666666666667
     },
     {
       "id": "05620205101064",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 36.2
+      "score": 37.33333333333333
     },
     {
       "id": "05624205101063",
