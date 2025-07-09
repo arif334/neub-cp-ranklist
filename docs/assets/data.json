@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-08 00:56:35",
+    "last_updated": "2025-07-09 00:57:23",
     "total_coders": 30
   },
   "data": [
@@ -181,17 +181,6 @@
       "score": 12.0
     },
     {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 10.9
-    },
-    {
       "id": "05624205101026",
       "name": "Tajmin Akter",
       "cf_handle": "aestro01",
@@ -210,6 +199,17 @@
       "cc_handle": "lubnayesmin",
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 10.0
+    },
+    {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
       "atc_color": "gray",
       "score": 10.0
     },
