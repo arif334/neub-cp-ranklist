@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-11 00:57:37",
+    "last_updated": "2025-07-12 00:59:04",
     "total_coders": 30
   },
   "data": [
@@ -36,17 +36,6 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 63.25865384615385
-    },
-    {
-      "id": "0562410005101022",
-      "name": "Jadab Lal Sarkar",
-      "cf_handle": "jadab_691",
-      "cf_color": "gray",
-      "cc_handle": "jadab_691",
-      "cc_color": "gray",
-      "atcoder_handle": "jadab_691",
-      "atc_color": "gray",
-      "score": 58.12708333333333
     },
     {
       "id": "Faculty",
@@ -115,6 +104,17 @@
       "score": 44.46666666666667
     },
     {
+      "id": "0562410005101022",
+      "name": "Jadab Lal Sarkar",
+      "cf_handle": "jadab_691",
+      "cf_color": "gray",
+      "cc_handle": "jadab_691",
+      "cc_color": "gray",
+      "atcoder_handle": "jadab_691",
+      "atc_color": "gray",
+      "score": 42.733333333333334
+    },
+    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -126,17 +126,6 @@
       "score": 37.33333333333333
     },
     {
-      "id": "05624205101063",
-      "name": "Sandip Paul",
-      "cf_handle": "NotThe_ChosenOne",
-      "cf_color": "gray",
-      "cc_handle": "akatsuki_2005",
-      "cc_color": "gray",
-      "atcoder_handle": "THE_AKATSUKI",
-      "atc_color": "gray",
-      "score": 30.12403846153846
-    },
-    {
       "id": "0562410005101027",
       "name": "Sraboni Akter Tasnur",
       "cf_handle": "tasnoor",
@@ -146,6 +135,17 @@
       "atcoder_handle": "St_noor",
       "atc_color": "gray",
       "score": 18.066666666666666
+    },
+    {
+      "id": "05624205101063",
+      "name": "Sandip Paul",
+      "cf_handle": "NotThe_ChosenOne",
+      "cf_color": "gray",
+      "cc_handle": "akatsuki_2005",
+      "cc_color": "gray",
+      "atcoder_handle": "THE_AKATSUKI",
+      "atc_color": "gray",
+      "score": 12.461538461538462
     },
     {
       "id": "05624205101061",
