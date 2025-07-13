@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-12 00:59:04",
+    "last_updated": "2025-07-13 01:03:14",
     "total_coders": 30
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 71.4573717948718
+      "score": 71.31891025641026
     },
     {
       "id": "0562410005101034",
@@ -35,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 63.25865384615385
+      "score": 63.39711538461539
     },
     {
       "id": "Faculty",
