@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-13 01:03:14",
+    "last_updated": "2025-07-14 01:00:42",
     "total_coders": 30
   },
   "data": [
@@ -126,17 +126,6 @@
       "score": 37.33333333333333
     },
     {
-      "id": "0562410005101027",
-      "name": "Sraboni Akter Tasnur",
-      "cf_handle": "tasnoor",
-      "cf_color": "gray",
-      "cc_handle": "st_noor",
-      "cc_color": "gray",
-      "atcoder_handle": "St_noor",
-      "atc_color": "gray",
-      "score": 18.066666666666666
-    },
-    {
       "id": "05624205101063",
       "name": "Sandip Paul",
       "cf_handle": "NotThe_ChosenOne",
@@ -245,6 +234,17 @@
       "atcoder_handle": "sanywahidul",
       "atc_color": "gray",
       "score": 7.0
+    },
+    {
+      "id": "0562410005101027",
+      "name": "Sraboni Akter Tasnur",
+      "cf_handle": "tasnoor",
+      "cf_color": "gray",
+      "cc_handle": "st_noor",
+      "cc_color": "gray",
+      "atcoder_handle": "St_noor",
+      "atc_color": "gray",
+      "score": 6.0
     },
     {
       "id": "0562320005101030",
