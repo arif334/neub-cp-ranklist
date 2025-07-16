@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-15 00:59:38",
+    "last_updated": "2025-07-16 00:58:38",
     "total_coders": 30
   },
   "data": [
@@ -156,7 +156,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 12.461538461538462
+      "score": 12.0
     },
     {
       "id": "05620205101064",
