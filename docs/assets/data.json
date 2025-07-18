@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-17 00:59:08",
+    "last_updated": "2025-07-18 00:58:19",
     "total_coders": 30
   },
   "data": [
@@ -32,10 +32,10 @@
       "cf_handle": "Murad78",
       "cf_color": "gray",
       "cc_handle": "murad_neub",
-      "cc_color": "green",
+      "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 64.26169871794872
+      "score": 63.69919871794872
     },
     {
       "id": "Faculty",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 29.2875
+      "score": 29.3625
     },
     {
       "id": "0562410005101017",
@@ -145,7 +145,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 27.31875
+      "score": 27.4125
     },
     {
       "id": "05624205101063",
