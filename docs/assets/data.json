@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-24 00:59:12",
+    "last_updated": "2025-07-25 00:58:59",
     "total_coders": 30
   },
   "data": [
@@ -13,7 +13,18 @@
       "cc_color": "blue",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 79.35721153846154
+      "score": 79.37596153846154
+    },
+    {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 74.89583333333333
     },
     {
       "id": "05624205101055",
@@ -35,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 63.69919871794872
+      "score": 63.77419871794872
     },
     {
       "id": "Faculty",
@@ -47,17 +58,6 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 51.87916666666666
-    },
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 48.53333333333333
     },
     {
       "id": "05624205101051",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 29.3625
+      "score": 29.38125
     },
     {
       "id": "0562410005101017",
