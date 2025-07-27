@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-07-26 00:57:38",
+    "last_updated": "2025-07-27 01:04:47",
     "total_coders": 30
   },
   "data": [
@@ -35,7 +35,18 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 63.77419871794872
+      "score": 63.728044871794864
+    },
+    {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 49.24102564102564
     },
     {
       "id": "05624205101051",
@@ -60,17 +71,6 @@
       "score": 47.840865384615384
     },
     {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 47.81025641025641
-    },
-    {
       "id": "05624205101055",
       "name": "Md Ajharul Islam ",
       "cf_handle": "saklan",
@@ -79,7 +79,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 45.50769230769231
+      "score": 45.66923076923077
     },
     {
       "id": "0562410005101022",
@@ -145,7 +145,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 27.966346153846153
+      "score": 28.035576923076924
     },
     {
       "id": "05624205101063",
@@ -211,7 +211,7 @@
       "cc_color": "gray",
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
-      "score": 8.0
+      "score": 8.36923076923077
     },
     {
       "id": "0562310005101012",
