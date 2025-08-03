@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-08-02 00:57:22",
+    "last_updated": "2025-08-03 01:05:59",
     "total_coders": 30
   },
   "data": [
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 46.835897435897444
+      "score": 47.11282051282052
     },
     {
       "id": "0562410005101022",
@@ -101,7 +101,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 36.13846153846154
+      "score": 36.46153846153846
     },
     {
       "id": "05624205101061",
@@ -178,7 +178,7 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 10.0
+      "score": 10.046153846153846
     },
     {
       "id": "05624205101026",
