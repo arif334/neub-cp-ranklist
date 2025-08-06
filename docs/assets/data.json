@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-08-05 01:01:32",
+    "last_updated": "2025-08-06 01:00:30",
     "total_coders": 30
   },
   "data": [
@@ -58,17 +58,6 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 47.11282051282052
-    },
-    {
-      "id": "0562410005101022",
-      "name": "Jadab Lal Sarkar",
-      "cf_handle": "jadab_691",
-      "cf_color": "gray",
-      "cc_handle": "jadab_691",
-      "cc_color": "gray",
-      "atcoder_handle": "jadab_691",
-      "atc_color": "gray",
-      "score": 42.96666666666667
     },
     {
       "id": "0562220005101039",
@@ -146,6 +135,17 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 12.576923076923077
+    },
+    {
+      "id": "0562410005101022",
+      "name": "Jadab Lal Sarkar",
+      "cf_handle": "jadab_691",
+      "cf_color": "gray",
+      "cc_handle": "jadab_691",
+      "cc_color": "gray",
+      "atcoder_handle": "jadab_691",
+      "atc_color": "gray",
+      "score": 12.0
     },
     {
       "id": "0562220005101016",
