@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-08-07 01:01:01",
+    "last_updated": "2025-08-08 01:00:40",
     "total_coders": 30
   },
   "data": [
@@ -10,10 +10,10 @@
       "cf_handle": "SAHAL01",
       "cf_color": "green",
       "cc_handle": "Come_back01 ",
-      "cc_color": "green",
+      "cc_color": "blue",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 77.96346153846154
+      "score": 78.03846153846155
     },
     {
       "id": "0562310005101031",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 74.8625
+      "score": 76.3
     },
     {
       "id": "0562320005101062",
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 47.11282051282052
+      "score": 46.57948717948718
     },
     {
       "id": "0562220005101039",
@@ -87,10 +87,10 @@
       "cf_handle": "Murad78",
       "cf_color": "gray",
       "cc_handle": "murad_neub",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 36.46153846153846
+      "score": 37.24903846153846
     },
     {
       "id": "05624205101061",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 29.27307692307692
+      "score": 29.310576923076923
     },
     {
       "id": "Faculty",
