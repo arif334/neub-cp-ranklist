@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2025-08-11 01:01:28",
-    "total_coders": 30
+    "last_updated": "2025-08-12 00:55:36",
+    "total_coders": 31
   },
   "data": [
     {
@@ -212,6 +212,17 @@
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 8.36923076923077
+    },
+    {
+      "id": "0562410005101004",
+      "name": "Hasan Mahmud Emon",
+      "cf_handle": "HM_Emon",
+      "cf_color": "gray",
+      "cc_handle": "emonism",
+      "cc_color": "gray",
+      "atcoder_handle": "HM_Emon",
+      "atc_color": "gray",
+      "score": 7.0
     },
     {
       "id": "0562310005101012",
