@@ -1,20 +1,9 @@
 {
   "meta": {
-    "last_updated": "2025-08-14 00:56:52",
+    "last_updated": "2025-08-15 00:57:12",
     "total_coders": 31
   },
   "data": [
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "green",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "blue",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 78.03846153846155
-    },
     {
       "id": "0562310005101031",
       "name": "Jakaria Chowdhury Tajwone",
@@ -27,6 +16,17 @@
       "score": 77.86666666666667
     },
     {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "green",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 77.68221153846154
+    },
+    {
       "id": "0562410005101034",
       "name": "Md. Murad Ahmed Tahmim",
       "cf_handle": "Murad78",
@@ -35,7 +35,7 @@
       "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 63.890064102564104
+      "score": 63.8525641025641
     },
     {
       "id": "0562410005101017",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 51.977243589743594
+      "score": 51.5834935897436
     },
     {
       "id": "0562320005101062",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "HM_Emon",
       "atc_color": "gray",
-      "score": 21.2125
+      "score": 21.45625
     },
     {
       "id": "210303020016",
