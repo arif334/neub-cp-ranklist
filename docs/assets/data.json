@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-08-15 00:57:12",
+    "last_updated": "2025-08-16 00:54:08",
     "total_coders": 31
   },
   "data": [
@@ -104,17 +104,6 @@
       "score": 38.705128205128204
     },
     {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
-      "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
-      "atc_color": "gray",
-      "score": 29.38125
-    },
-    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -157,6 +146,17 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 12.576923076923077
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
+      "cf_color": "gray",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
+      "atc_color": "gray",
+      "score": 12.0
     },
     {
       "id": "0562220005101016",
