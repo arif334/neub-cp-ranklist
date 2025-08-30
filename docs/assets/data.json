@@ -1,20 +1,9 @@
 {
   "meta": {
-    "last_updated": "2025-08-29 00:51:45",
+    "last_updated": "2025-08-30 00:48:01",
     "total_coders": 31
   },
   "data": [
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 75.4
-    },
     {
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
@@ -47,6 +36,17 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 54.010096153846156
+    },
+    {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 48.4
     },
     {
       "id": "05624205101055",
