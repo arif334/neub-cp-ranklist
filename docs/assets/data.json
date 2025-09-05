@@ -1,9 +1,20 @@
 {
   "meta": {
-    "last_updated": "2025-09-04 00:48:46",
+    "last_updated": "2025-09-05 00:50:16",
     "total_coders": 31
   },
   "data": [
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "gray",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 73.77772435897435
+    },
     {
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
@@ -13,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 69.14583333333333
+      "score": 69.20208333333333
     },
     {
       "id": "0562410005101034",
@@ -35,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 54.010096153846156
+      "score": 54.04759615384616
     },
     {
       "id": "0562310005101031",
@@ -49,17 +60,6 @@
       "score": 48.4
     },
     {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "green",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 47.65897435897436
-    },
-    {
       "id": "210303020016",
       "name": "Mahfuz Ibne Syful",
       "cf_handle": "Mahfuz2411",
@@ -68,7 +68,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 46.80480769230769
+      "score": 46.87980769230769
     },
     {
       "id": "05624205101051",
@@ -145,7 +145,7 @@
       "cc_color": "gray",
       "atcoder_handle": "redwan_10",
       "atc_color": "gray",
-      "score": 18.775
+      "score": 18.86875
     },
     {
       "id": "05624205101061",
