@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-09 00:51:21",
+    "last_updated": "2025-09-10 00:49:32",
     "total_coders": 31
   },
   "data": [
@@ -13,18 +13,18 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.24439102564102
+      "score": 77.04439102564103
     },
     {
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
       "cf_handle": "SAHAL01",
-      "cf_color": "green",
+      "cf_color": "gray",
       "cc_handle": "Come_back01 ",
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 69.43541666666667
+      "score": 68.26875
     },
     {
       "id": "0562410005101034",
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 48.4
+      "score": 49.8
     },
     {
       "id": "210303020016",
@@ -71,6 +71,17 @@
       "score": 46.87980769230769
     },
     {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 46.03333333333333
+    },
+    {
       "id": "05624205101051",
       "name": "Prodipta Shakar Das Akash",
       "cf_handle": "Das_Akash1",
@@ -80,17 +91,6 @@
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
       "score": 45.53333333333333
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 42.33333333333333
     },
     {
       "id": "0562410005101022",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 39.266666666666666
+      "score": 40.43333333333334
     },
     {
       "id": "05624205101026",
