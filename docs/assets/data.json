@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-13 00:45:32",
+    "last_updated": "2025-09-14 00:54:02",
     "total_coders": 31
   },
   "data": [
@@ -14,6 +14,17 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 77.88189102564104
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "gray",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 68.43541666666667
     },
     {
       "id": "0562410005101034",
@@ -52,7 +63,7 @@
       "id": "210303020016",
       "name": "Mahfuz Ibne Syful",
       "cf_handle": "Mahfuz2411",
-      "cf_color": "gray",
+      "cf_color": "green",
       "cc_handle": "Mahfuz2411",
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
@@ -91,17 +102,6 @@
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
       "score": 40.5
-    },
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 28.66875
     },
     {
       "id": "05624205101026",
