@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-18 00:48:29",
+    "last_updated": "2025-09-19 00:51:47",
     "total_coders": 31
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.01522435897436
+      "score": 75.10897435897436
     },
     {
       "id": "Alumni",
@@ -32,10 +32,10 @@
       "cf_handle": "Murad78",
       "cf_color": "gray",
       "cc_handle": "murad_neub",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 65.12259615384616
+      "score": 65.81634615384615
     },
     {
       "id": "0562410005101017",
@@ -68,7 +68,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
-      "score": 47.29230769230769
+      "score": 47.36730769230769
     },
     {
       "id": "0562320005101062",
