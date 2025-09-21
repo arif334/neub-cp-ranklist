@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-20 00:47:33",
+    "last_updated": "2025-09-21 00:55:01",
     "total_coders": 27
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 69.73541666666667
+      "score": 71.30208333333333
     },
     {
       "id": "0562410005101034",
@@ -60,6 +60,17 @@
       "score": 51.36666666666667
     },
     {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 49.9
+    },
+    {
       "id": "210303020016",
       "name": "Mahfuz Ibne Syful",
       "cf_handle": "Mahfuz2411",
@@ -69,17 +80,6 @@
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "gray",
       "score": 48.36730769230769
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 44.43333333333333
     },
     {
       "id": "05624205101051",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "arif334",
       "atc_color": "gray",
-      "score": 30.671794871794873
+      "score": 31.04102564102564
     },
     {
       "id": "05624205101026",
