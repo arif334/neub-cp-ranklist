@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-21 00:55:01",
+    "last_updated": "2025-09-22 00:54:58",
     "total_coders": 27
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.10897435897436
+      "score": 76.00897435897437
     },
     {
       "id": "Alumni",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 71.30208333333333
+      "score": 71.20208333333333
     },
     {
       "id": "0562410005101034",
@@ -115,17 +115,6 @@
       "score": 31.04102564102564
     },
     {
-      "id": "05624205101026",
-      "name": "Tajmin Akter",
-      "cf_handle": "aestro01",
-      "cf_color": "gray",
-      "cc_handle": "aestro01",
-      "cc_color": "gray",
-      "atcoder_handle": "aestro01",
-      "atc_color": "gray",
-      "score": 26.733333333333334
-    },
-    {
       "id": "0562410005101028",
       "name": "Redwan Hussan ",
       "cf_handle": "red_001",
@@ -201,6 +190,17 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 8.0
+    },
+    {
+      "id": "05624205101026",
+      "name": "Tajmin Akter",
+      "cf_handle": "aestro01",
+      "cf_color": "gray",
+      "cc_handle": "aestro01",
+      "cc_color": "gray",
+      "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 7.0
     },
     {
       "id": "0562220005101006",
