@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-24 00:50:36",
+    "last_updated": "2025-09-25 00:50:58",
     "total_coders": 27
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 76.00897435897437
+      "score": 77.27564102564102
     },
     {
       "id": "Alumni",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 52.91426282051282
+      "score": 52.06041666666667
     },
     {
       "id": "0562310005101031",
@@ -126,17 +126,6 @@
       "score": 18.86875
     },
     {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
-      "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
-      "atc_color": "gray",
-      "score": 10.253846153846155
-    },
-    {
       "id": "05620205101064",
       "name": "Md. Usman Ahmed Furkan",
       "cf_handle": "usmanfurkan",
@@ -144,6 +133,17 @@
       "cc_handle": "usmanfurkan",
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 10.0
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
+      "cf_color": "gray",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 10.0
     },
