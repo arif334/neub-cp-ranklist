@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2025-09-26 00:49:49",
-    "total_coders": 27
+    "last_updated": "2025-09-27 00:47:49",
+    "total_coders": 28
   },
   "data": [
     {
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 76.54439102564103
+      "score": 76.14439102564103
     },
     {
       "id": "Alumni",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 71.33333333333333
+      "score": 70.3
     },
     {
       "id": "0562410005101034",
@@ -36,17 +36,6 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 65.89134615384616
-    },
-    {
-      "id": "0562410005101017",
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
-      "cf_color": "gray",
-      "cc_handle": "olyahmed_680",
-      "cc_color": "gray",
-      "atcoder_handle": "olyahmed_680",
-      "atc_color": "gray",
-      "score": 52.06041666666667
     },
     {
       "id": "0562310005101031",
@@ -68,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 49.9
+      "score": 50.6
     },
     {
       "id": "210303020016",
@@ -104,6 +93,17 @@
       "score": 41.2
     },
     {
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
+      "cf_color": "gray",
+      "cc_handle": "olyahmed_680",
+      "cc_color": "gray",
+      "atcoder_handle": "olyahmed_680",
+      "atc_color": "gray",
+      "score": 32.766666666666666
+    },
+    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -115,15 +115,15 @@
       "score": 31.04102564102564
     },
     {
-      "id": "0562410005101028",
-      "name": "Redwan Hussan ",
-      "cf_handle": "red_001",
+      "id": "05624205101037",
+      "name": "Md Tanvir Hasan Chowdhury",
+      "cf_handle": "iamtanvir2003",
       "cf_color": "gray",
-      "cc_handle": "redwan_1",
+      "cc_handle": "tanvir_156",
       "cc_color": "gray",
-      "atcoder_handle": "redwan_10",
+      "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
-      "score": 18.86875
+      "score": 22.1
     },
     {
       "id": "05620205101064",
@@ -234,6 +234,17 @@
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 5.0
+    },
+    {
+      "id": "0562410005101028",
+      "name": "Redwan Hussan ",
+      "cf_handle": "red_001",
+      "cf_color": "gray",
+      "cc_handle": "redwan_1",
+      "cc_color": "gray",
+      "atcoder_handle": "redwan_10",
+      "atc_color": "gray",
+      "score": 4.0
     },
     {
       "id": "0562310005101012",
