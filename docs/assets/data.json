@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-09-30 00:51:29",
+    "last_updated": "2025-10-01 00:57:13",
     "total_coders": 28
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 77.14439102564103
+      "score": 72.85208333333333
     },
     {
       "id": "0562410005101034",
@@ -60,17 +60,6 @@
       "score": 51.36666666666667
     },
     {
-      "id": "210303020016",
-      "name": "Mahfuz Ibne Syful",
-      "cf_handle": "Mahfuz2411",
-      "cf_color": "green",
-      "cc_handle": "Mahfuz2411",
-      "cc_color": "green",
-      "atcoder_handle": "Mahfuz2411",
-      "atc_color": "gray",
-      "score": 48.36730769230769
-    },
-    {
       "id": "05624205101051",
       "name": "Prodipta Shakar Das Akash",
       "cf_handle": "Das_Akash1",
@@ -91,6 +80,17 @@
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
       "score": 41.2
+    },
+    {
+      "id": "210303020016",
+      "name": "Mahfuz Ibne Syful",
+      "cf_handle": "Mahfuz2411",
+      "cf_color": "green",
+      "cc_handle": "Mahfuz2411",
+      "cc_color": "green",
+      "atcoder_handle": "Mahfuz2411",
+      "atc_color": "gray",
+      "score": 39.275
     },
     {
       "id": "0562410005101017",
@@ -178,7 +178,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Bushra24",
       "atc_color": "gray",
-      "score": 9.107692307692307
+      "score": 8.0
     },
     {
       "id": "0562220005101039",
