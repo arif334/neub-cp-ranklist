@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-02 00:49:16",
+    "last_updated": "2025-10-03 00:49:20",
     "total_coders": 28
   },
   "data": [
@@ -93,6 +93,17 @@
       "score": 39.275
     },
     {
+      "id": "05624205101037",
+      "name": "Md Tanvir Hasan Chowdhury",
+      "cf_handle": "iamtanvir2003",
+      "cf_color": "gray",
+      "cc_handle": "tanvir_156",
+      "cc_color": "gray",
+      "atcoder_handle": "tanvir_156",
+      "atc_color": "gray",
+      "score": 36.825
+    },
+    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -113,17 +124,6 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 31.641025641025642
-    },
-    {
-      "id": "05624205101037",
-      "name": "Md Tanvir Hasan Chowdhury",
-      "cf_handle": "iamtanvir2003",
-      "cf_color": "gray",
-      "cc_handle": "tanvir_156",
-      "cc_color": "gray",
-      "atcoder_handle": "tanvir_156",
-      "atc_color": "gray",
-      "score": 23.1
     },
     {
       "id": "05620205101064",
