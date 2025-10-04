@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-03 00:49:20",
+    "last_updated": "2025-10-04 00:46:15",
     "total_coders": 28
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 77.93846153846154
+      "score": 78.01346153846154
     },
     {
       "id": "05624205101055",
@@ -21,10 +21,10 @@
       "cf_handle": "saklan",
       "cf_color": "gray",
       "cc_handle": "saklan",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 72.85208333333333
+      "score": 70.50625
     },
     {
       "id": "0562410005101034",
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 51.36666666666667
+      "score": 50.5
     },
     {
       "id": "05624205101051",
@@ -79,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 41.2
+      "score": 41.63333333333333
     },
     {
       "id": "210303020016",
