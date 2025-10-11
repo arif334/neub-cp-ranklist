@@ -1,9 +1,20 @@
 {
   "meta": {
-    "last_updated": "2025-10-10 00:50:28",
+    "last_updated": "2025-10-11 00:47:04",
     "total_coders": 28
   },
   "data": [
+    {
+      "id": "210303020016",
+      "name": "Mahfuz Ibne Syful",
+      "cf_handle": "Mahfuz2411",
+      "cf_color": "green",
+      "cc_handle": "Mahfuz2411",
+      "cc_color": "green",
+      "atcoder_handle": "Mahfuz2411",
+      "atc_color": "#804000",
+      "score": 91.97147435897436
+    },
     {
       "id": "0562310005101031",
       "name": "Jakaria Chowdhury Tajwone",
@@ -13,18 +24,18 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 77.43125
+      "score": 76.86458333333333
     },
     {
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
       "cf_handle": "SAHAL01",
-      "cf_color": "gray",
+      "cf_color": "green",
       "cc_handle": "Come_back01 ",
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 74.21858974358975
+      "score": 76.31858974358974
     },
     {
       "id": "05624205101055",
@@ -35,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 73.64903846153845
+      "score": 76.1823717948718
     },
     {
       "id": "0562410005101034",
@@ -46,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 66.18429487179488
+      "score": 70.21762820512821
     },
     {
       "id": "05624205101051",
@@ -57,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 61.809615384615384
+      "score": 63.14294871794873
     },
     {
       "id": "0562320005101062",
@@ -68,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 53.0
+      "score": 53.13333333333333
     },
     {
       "id": "05624205101037",
@@ -79,18 +90,7 @@
       "cc_color": "gray",
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
-      "score": 51.05512820512821
-    },
-    {
-      "id": "210303020016",
-      "name": "Mahfuz Ibne Syful",
-      "cf_handle": "Mahfuz2411",
-      "cf_color": "green",
-      "cc_handle": "Mahfuz2411",
-      "cc_color": "green",
-      "atcoder_handle": "Mahfuz2411",
-      "atc_color": "#804000",
-      "score": 49.604807692307695
+      "score": 52.488461538461536
     },
     {
       "id": "05624205101026",
@@ -104,6 +104,17 @@
       "score": 46.704166666666666
     },
     {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 42.8
+    },
+    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -112,7 +123,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 41.8
+      "score": 42.233333333333334
     },
     {
       "id": "0562410005101022",
@@ -123,18 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
-      "score": 39.51538461538462
-    },
-    {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
-      "score": 39.36666666666667
+      "score": 37.94871794871795
     },
     {
       "id": "0562410005101017",
