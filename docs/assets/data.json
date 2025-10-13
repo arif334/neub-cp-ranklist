@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-12 00:53:06",
+    "last_updated": "2025-10-13 00:54:46",
     "total_coders": 28
   },
   "data": [
@@ -13,7 +13,18 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
-      "score": 91.97147435897436
+      "score": 91.93814102564103
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "green",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 77.9852564102564
     },
     {
       "id": "0562310005101031",
@@ -27,17 +38,6 @@
       "score": 76.86458333333333
     },
     {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "green",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 76.31858974358974
-    },
-    {
       "id": "05624205101055",
       "name": "Md Ajharul Islam",
       "cf_handle": "saklan",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.99775641025641
+      "score": 76.16442307692307
     },
     {
       "id": "0562410005101034",
