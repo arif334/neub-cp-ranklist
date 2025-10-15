@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-14 00:50:52",
+    "last_updated": "2025-10-15 00:52:32",
     "total_coders": 28
   },
   "data": [
@@ -137,17 +137,6 @@
       "score": 37.94871794871795
     },
     {
-      "id": "0562410005101017",
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
-      "cf_color": "gray",
-      "cc_handle": "olyahmed_680",
-      "cc_color": "gray",
-      "atcoder_handle": "olyahmed_680",
-      "atc_color": "gray",
-      "score": 34.666666666666664
-    },
-    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -168,6 +157,17 @@
       "atcoder_handle": "sanywahidul",
       "atc_color": "gray",
       "score": 15.066666666666666
+    },
+    {
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
+      "cf_color": "gray",
+      "cc_handle": "olyahmed_680",
+      "cc_color": "gray",
+      "atcoder_handle": "olyahmed_680",
+      "atc_color": "gray",
+      "score": 10.9
     },
     {
       "id": "05624205101061",
