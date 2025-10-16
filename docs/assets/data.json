@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-15 00:52:32",
+    "last_updated": "2025-10-16 00:51:56",
     "total_coders": 28
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
-      "score": 91.93814102564103
+      "score": 91.57147435897437
     },
     {
       "id": "Alumni",
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 77.9852564102564
+      "score": 76.65192307692308
     },
     {
       "id": "0562310005101031",
@@ -35,7 +35,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 76.86458333333333
+      "score": 75.06458333333333
     },
     {
       "id": "05624205101055",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 76.16442307692307
+      "score": 74.23108974358975
     },
     {
       "id": "0562410005101034",
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 70.86378205128206
+      "score": 69.26378205128205
     },
     {
       "id": "05624205101051",
@@ -68,18 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 63.14294871794873
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "green",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 56.5025641025641
+      "score": 61.20961538461539
     },
     {
       "id": "05624205101037",
@@ -90,7 +79,18 @@
       "cc_color": "gray",
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
-      "score": 52.64999999999999
+      "score": 58.849999999999994
+    },
+    {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 54.96923076923077
     },
     {
       "id": "05624205101026",
@@ -101,7 +101,7 @@
       "cc_color": "gray",
       "atcoder_handle": "aestro01",
       "atc_color": "gray",
-      "score": 46.704166666666666
+      "score": 47.6375
     },
     {
       "id": "05620205101064",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 42.8
+      "score": 42.9
     },
     {
       "id": "0562310005101015",
@@ -123,7 +123,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 42.233333333333334
+      "score": 40.266666666666666
     },
     {
       "id": "0562410005101022",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
-      "score": 37.94871794871795
+      "score": 37.14871794871795
     },
     {
       "id": "Faculty",
@@ -145,7 +145,7 @@
       "cc_color": "gray",
       "atcoder_handle": "arif334",
       "atc_color": "gray",
-      "score": 32.264102564102565
+      "score": 31.23076923076923
     },
     {
       "id": "0562320005101063",
@@ -156,7 +156,7 @@
       "cc_color": "gray",
       "atcoder_handle": "sanywahidul",
       "atc_color": "gray",
-      "score": 15.066666666666666
+      "score": 14.433333333333334
     },
     {
       "id": "0562410005101017",
