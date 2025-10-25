@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-24 00:48:23",
+    "last_updated": "2025-10-25 00:50:57",
     "total_coders": 27
   },
   "data": [
@@ -24,18 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 77.05416666666666
-    },
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 75.65192307692308
+      "score": 75.65416666666667
     },
     {
       "id": "05624205101055",
@@ -68,18 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 62.95961538461539
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 53.66923076923077
+      "score": 64.69294871794872
     },
     {
       "id": "05624205101037",
@@ -93,6 +71,17 @@
       "score": 53.32804487179487
     },
     {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 52.802564102564105
+    },
+    {
       "id": "05624205101026",
       "name": "Tajmin Akter",
       "cf_handle": "aestro01",
@@ -102,6 +91,17 @@
       "atcoder_handle": "aestro01",
       "atc_color": "gray",
       "score": 46.920833333333334
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "gray",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 45.54358974358974
     },
     {
       "id": "05620205101064",
@@ -123,7 +123,18 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 42.333333333333336
+      "score": 42.8
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 39.06666666666667
     },
     {
       "id": "0562410005101022",
@@ -135,17 +146,6 @@
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
       "score": 38.08205128205129
-    },
-    {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 36.36666666666667
     },
     {
       "id": "0562320005101063",
