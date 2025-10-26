@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2025-10-25 00:50:57",
-    "total_coders": 27
+    "last_updated": "2025-10-26 00:56:06",
+    "total_coders": 24
   },
   "data": [
     {
@@ -13,7 +13,18 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
-      "score": 93.23798076923077
+      "score": 93.12259615384616
+    },
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "gray",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 76.1576923076923
     },
     {
       "id": "0562310005101031",
@@ -25,17 +36,6 @@
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 75.65416666666667
-    },
-    {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "gray",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 75.60384615384615
     },
     {
       "id": "0562410005101034",
@@ -68,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
-      "score": 53.32804487179487
+      "score": 53.397275641025644
     },
     {
       "id": "0562320005101062",
@@ -101,7 +101,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 45.54358974358974
+      "score": 46.12051282051282
     },
     {
       "id": "05620205101064",
@@ -112,7 +112,7 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 42.86666666666667
+      "score": 43.02820512820513
     },
     {
       "id": "0562310005101015",
@@ -156,7 +156,7 @@
       "cc_color": "gray",
       "atcoder_handle": "sanywahidul",
       "atc_color": "gray",
-      "score": 14.033333333333333
+      "score": 13.033333333333333
     },
     {
       "id": "0562410005101017",
@@ -178,7 +178,7 @@
       "cc_color": "gray",
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 9.0
+      "score": 8.0
     },
     {
       "id": "05624205101063",
@@ -189,7 +189,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 9.0
+      "score": 8.0
     },
     {
       "id": "0562220005101016",
@@ -200,7 +200,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Bushra24",
       "atc_color": "gray",
-      "score": 7.0
+      "score": 6.0
     },
     {
       "id": "0562220005101006",
@@ -211,7 +211,7 @@
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
       "atc_color": "gray",
-      "score": 6.0
+      "score": 5.0
     },
     {
       "id": "0562410005101004",
@@ -222,29 +222,7 @@
       "cc_color": "gray",
       "atcoder_handle": "HM_Emon",
       "atc_color": "gray",
-      "score": 6.0
-    },
-    {
-      "id": "0562410005101028",
-      "name": "Redwan Hussan ",
-      "cf_handle": "red_001",
-      "cf_color": "gray",
-      "cc_handle": "redwan_1",
-      "cc_color": "gray",
-      "atcoder_handle": "redwan_10",
-      "atc_color": "gray",
-      "score": 4.0
-    },
-    {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
-      "cf_color": "gray",
-      "cc_handle": "bytequest",
-      "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
-      "atc_color": "gray",
-      "score": 4.0
+      "score": 5.0
     },
     {
       "id": "Faculty",
@@ -258,6 +236,28 @@
       "score": 3.230769230769231
     },
     {
+      "id": "0562410005101028",
+      "name": "Redwan Hussan ",
+      "cf_handle": "red_001",
+      "cf_color": "gray",
+      "cc_handle": "redwan_1",
+      "cc_color": "gray",
+      "atcoder_handle": "redwan_10",
+      "atc_color": "gray",
+      "score": 3.0
+    },
+    {
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
+      "cf_color": "gray",
+      "cc_handle": "bytequest",
+      "cc_color": "gray",
+      "atcoder_handle": "ByteQuest",
+      "atc_color": "gray",
+      "score": 3.0
+    },
+    {
       "id": "0562310005101012",
       "name": "Hrithik Dev Nath",
       "cf_handle": "hrithik_79_",
@@ -265,39 +265,6 @@
       "cc_handle": "hrithik_9",
       "cc_color": "gray",
       "atcoder_handle": "hrithik_79",
-      "atc_color": "gray",
-      "score": 2.0
-    },
-    {
-      "id": "0562410005101001",
-      "name": "Tanjeda Tanha Sumaiya",
-      "cf_handle": "tanje_001",
-      "cf_color": "gray",
-      "cc_handle": "kine_wolf_45",
-      "cc_color": "gray",
-      "atcoder_handle": "sumo_19",
-      "atc_color": "gray",
-      "score": 1.0
-    },
-    {
-      "id": "0562410005101027",
-      "name": "Sraboni Akter Tasnur",
-      "cf_handle": "tasnoor",
-      "cf_color": "gray",
-      "cc_handle": "st_noor",
-      "cc_color": "gray",
-      "atcoder_handle": "St_noor",
-      "atc_color": "gray",
-      "score": 1.0
-    },
-    {
-      "id": "0562320005101030",
-      "name": "Sumaiya Jannat",
-      "cf_handle": "Jannat_Sumaiya",
-      "cf_color": "gray",
-      "cc_handle": "Jannat_22",
-      "cc_color": "gray",
-      "atcoder_handle": "Jannat_Sumaiya",
       "atc_color": "gray",
       "score": 1.0
     }
