@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-30 00:55:17",
+    "last_updated": "2025-10-31 00:53:11",
     "total_coders": 24
   },
   "data": [
@@ -16,17 +16,6 @@
       "score": 93.12259615384616
     },
     {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "gray",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 78.19102564102563
-    },
-    {
       "id": "0562310005101031",
       "name": "Jakaria Chowdhury Tajwone",
       "cf_handle": "tajwone17",
@@ -36,6 +25,17 @@
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 77.32083333333333
+    },
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "gray",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 75.82435897435897
     },
     {
       "id": "0562410005101034",
@@ -123,7 +123,18 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 42.06666666666667
+      "score": 40.7
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 38.1
     },
     {
       "id": "0562410005101022",
@@ -135,17 +146,6 @@
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
       "score": 38.08205128205129
-    },
-    {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 38.06666666666666
     },
     {
       "id": "0562320005101063",
