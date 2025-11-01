@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-10-31 00:53:11",
+    "last_updated": "2025-11-01 00:56:24",
     "total_coders": 24
   },
   "data": [
@@ -32,10 +32,10 @@
       "cf_handle": "saklan",
       "cf_color": "gray",
       "cc_handle": "saklan",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.82435897435897
+      "score": 76.36810897435898
     },
     {
       "id": "0562410005101034",
@@ -148,6 +148,17 @@
       "score": 38.08205128205129
     },
     {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 22.44375
+    },
+    {
       "id": "0562320005101063",
       "name": "Md. Wahidul Auwal Sany",
       "cf_handle": "Sany_00",
@@ -190,17 +201,6 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 8.0
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 6.0
     },
     {
       "id": "0562220005101006",
