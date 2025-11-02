@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-01 00:56:24",
+    "last_updated": "2025-11-02 00:57:05",
     "total_coders": 24
   },
   "data": [
@@ -35,7 +35,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 76.36810897435898
+      "score": 75.76810897435897
     },
     {
       "id": "0562410005101034",
@@ -46,7 +46,7 @@
       "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 70.12003205128207
+      "score": 70.39695512820514
     },
     {
       "id": "05624205101051",
