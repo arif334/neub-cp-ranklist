@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-04 00:53:37",
+    "last_updated": "2025-11-05 00:55:22",
     "total_coders": 24
   },
   "data": [
@@ -57,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 65.59294871794872
+      "score": 64.80833333333334
     },
     {
       "id": "0562320005101062",
@@ -145,7 +145,7 @@
       "cc_color": "gray",
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
-      "score": 38.08205128205129
+      "score": 37.66666666666667
     },
     {
       "id": "0562220005101016",
@@ -178,7 +178,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 9.9
+      "score": 9.0
     },
     {
       "id": "05624205101061",
@@ -225,17 +225,6 @@
       "score": 5.0
     },
     {
-      "id": "Faculty",
-      "name": "Arif Ahmad",
-      "cf_handle": "Punter",
-      "cf_color": "gray",
-      "cc_handle": "arif334",
-      "cc_color": "gray",
-      "atcoder_handle": "arif334",
-      "atc_color": "gray",
-      "score": 3.230769230769231
-    },
-    {
       "id": "0562410005101028",
       "name": "Redwan Hussan ",
       "cf_handle": "red_001",
@@ -267,6 +256,17 @@
       "atcoder_handle": "hrithik_79",
       "atc_color": "gray",
       "score": 1.0
+    },
+    {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_color": "gray",
+      "cc_handle": "arif334",
+      "cc_color": "gray",
+      "atcoder_handle": "arif334",
+      "atc_color": "gray",
+      "score": 0.0
     }
   ]
 }
