@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-05 00:55:22",
+    "last_updated": "2025-11-06 00:54:09",
     "total_coders": 24
   },
   "data": [
@@ -159,17 +159,6 @@
       "score": 22.44375
     },
     {
-      "id": "0562320005101063",
-      "name": "Md. Wahidul Auwal Sany",
-      "cf_handle": "Sany_00",
-      "cf_color": "gray",
-      "cc_handle": "Sany_00",
-      "cc_color": "gray",
-      "atcoder_handle": "sanywahidul",
-      "atc_color": "gray",
-      "score": 13.033333333333333
-    },
-    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -254,6 +243,17 @@
       "cc_handle": "hrithik_9",
       "cc_color": "gray",
       "atcoder_handle": "hrithik_79",
+      "atc_color": "gray",
+      "score": 1.0
+    },
+    {
+      "id": "0562320005101063",
+      "name": "Md. Wahidul Auwal Sany",
+      "cf_handle": "Sany_00",
+      "cf_color": "gray",
+      "cc_handle": "Sany_00",
+      "cc_color": "gray",
+      "atcoder_handle": "sanywahidul",
       "atc_color": "gray",
       "score": 1.0
     },
