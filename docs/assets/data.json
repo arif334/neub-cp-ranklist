@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-10 00:57:05",
+    "last_updated": "2025-11-11 00:55:02",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 77.8951923076923
+      "score": 79.52852564102564
     },
     {
       "id": "210303020016",
@@ -35,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 54.06923076923077
+      "score": 52.1025641025641
     },
     {
       "id": "0562310005101031",
@@ -57,18 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 46.266666666666666
-    },
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 45.55384615384615
+      "score": 46.36666666666667
     },
     {
       "id": "0562410005101034",
@@ -82,15 +71,15 @@
       "score": 43.828205128205134
     },
     {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
       "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 43.02820512820513
+      "score": 41.88717948717949
     },
     {
       "id": "0562310005101015",
@@ -115,17 +104,6 @@
       "score": 38.57435897435897
     },
     {
-      "id": "0562410005101022",
-      "name": "Jadab Lal Sarkar",
-      "cf_handle": "jadab_691",
-      "cf_color": "gray",
-      "cc_handle": "jadab_691",
-      "cc_color": "gray",
-      "atcoder_handle": "jadab_691",
-      "atc_color": "gray",
-      "score": 37.66666666666667
-    },
-    {
       "id": "0562220005101039",
       "name": "Kazi Abu Sayed Jilani",
       "cf_handle": "phantomphoton_",
@@ -146,6 +124,28 @@
       "atcoder_handle": "Bushra24",
       "atc_color": "gray",
       "score": 22.6125
+    },
+    {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 11.161538461538461
+    },
+    {
+      "id": "0562410005101022",
+      "name": "Jadab Lal Sarkar",
+      "cf_handle": "jadab_691",
+      "cf_color": "gray",
+      "cc_handle": "jadab_691",
+      "cc_color": "gray",
+      "atcoder_handle": "jadab_691",
+      "atc_color": "gray",
+      "score": 10.0
     },
     {
       "id": "0562410005101017",
