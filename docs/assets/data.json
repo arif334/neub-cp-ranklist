@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-16 00:58:22",
+    "last_updated": "2025-11-17 00:55:50",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 76.46185897435896
+      "score": 79.66185897435898
     },
     {
       "id": "05624205101051",
@@ -24,18 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 68.83541666666667
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 52.16923076923077
+      "score": 69.50208333333333
     },
     {
       "id": "0562310005101031",
@@ -46,7 +35,29 @@
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
-      "score": 51.43333333333333
+      "score": 50.53333333333333
+    },
+    {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 50.40256410256411
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "gray",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 44.12051282051282
     },
     {
       "id": "0562410005101034",
@@ -60,17 +71,6 @@
       "score": 43.91794871794872
     },
     {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 41.88717948717949
-    },
-    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -79,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 40.83333333333333
+      "score": 40.1
     },
     {
       "id": "05624205101037",
@@ -101,7 +101,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 32.233333333333334
+      "score": 35.8
     },
     {
       "id": "0562220005101016",
