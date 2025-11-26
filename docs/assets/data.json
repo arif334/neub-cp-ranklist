@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-25 00:53:46",
+    "last_updated": "2025-11-26 00:54:55",
     "total_coders": 22
   },
   "data": [
@@ -60,17 +60,6 @@
       "score": 44.717948717948715
     },
     {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 44.12051282051282
-    },
-    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -90,7 +79,18 @@
       "cc_color": "gray",
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
-      "score": 38.60769230769231
+      "score": 38.1
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "gray",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 36.36666666666667
     },
     {
       "id": "0562220005101039",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 11.161538461538461
+      "score": 11.0
     },
     {
       "id": "0562410005101022",
