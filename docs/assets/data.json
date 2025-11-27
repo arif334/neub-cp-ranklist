@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-26 00:54:55",
+    "last_updated": "2025-11-27 00:53:56",
     "total_coders": 22
   },
   "data": [
@@ -10,10 +10,10 @@
       "cf_handle": "saklan",
       "cf_color": "gray",
       "cc_handle": "saklan",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 77.20560897435897
+      "score": 77.28060897435897
     },
     {
       "id": "05624205101051",
