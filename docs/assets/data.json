@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-11-29 00:53:11",
+    "last_updated": "2025-11-30 01:01:17",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 77.28060897435897
+      "score": 81.04727564102564
     },
     {
       "id": "05624205101051",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 49.3
+      "score": 49.2
     },
     {
       "id": "0562410005101034",
@@ -60,6 +60,17 @@
       "score": 44.717948717948715
     },
     {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "gray",
+      "cc_handle": "Come_back01 ",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 39.7
+    },
+    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -71,17 +82,6 @@
       "score": 39.3
     },
     {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 36.36666666666667
-    },
-    {
       "id": "0562220005101039",
       "name": "Kazi Abu Sayed Jilani",
       "cf_handle": "phantomphoton_",
@@ -90,7 +90,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 34.4
+      "score": 36.06666666666666
     },
     {
       "id": "210303020016",
@@ -104,17 +104,6 @@
       "score": 22.907692307692308
     },
     {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
-      "score": 11.0
-    },
-    {
       "id": "05624205101037",
       "name": "Md Tanvir Hasan Chowdhury",
       "cf_handle": "iamtanvir2003",
@@ -123,7 +112,18 @@
       "cc_color": "gray",
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
-      "score": 11.0
+      "score": 13.038461538461538
+    },
+    {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 10.0
     },
     {
       "id": "0562410005101022",
@@ -134,7 +134,7 @@
       "cc_color": "gray",
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
-      "score": 9.0
+      "score": 8.0
     },
     {
       "id": "0562410005101017",
@@ -145,7 +145,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 8.0
+      "score": 7.0
     },
     {
       "id": "05624205101026",
@@ -156,7 +156,7 @@
       "cc_color": "gray",
       "atcoder_handle": "aestro01",
       "atc_color": "gray",
-      "score": 7.0
+      "score": 6.0
     },
     {
       "id": "05624205101061",
@@ -167,7 +167,7 @@
       "cc_color": "gray",
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 7.0
+      "score": 6.0
     },
     {
       "id": "05624205101063",
@@ -178,7 +178,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 7.0
+      "score": 6.0
     },
     {
       "id": "0562220005101016",
@@ -200,7 +200,7 @@
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
       "atc_color": "gray",
-      "score": 4.0
+      "score": 3.0
     },
     {
       "id": "0562410005101004",
@@ -211,7 +211,7 @@
       "cc_color": "gray",
       "atcoder_handle": "HM_Emon",
       "atc_color": "gray",
-      "score": 4.0
+      "score": 3.0
     },
     {
       "id": "0562410005101028",
@@ -222,7 +222,7 @@
       "cc_color": "gray",
       "atcoder_handle": "redwan_10",
       "atc_color": "gray",
-      "score": 2.0
+      "score": 1.0
     },
     {
       "id": "05624205101062",
@@ -233,7 +233,7 @@
       "cc_color": "gray",
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
-      "score": 2.0
+      "score": 1.0
     },
     {
       "id": "Faculty",
