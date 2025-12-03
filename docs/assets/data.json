@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-12-02 00:55:48",
+    "last_updated": "2025-12-03 00:55:49",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 81.04727564102564
+      "score": 76.33958333333334
     },
     {
       "id": "05624205101051",
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 44.717948717948715
+      "score": 41.53333333333333
     },
     {
       "id": "Alumni",
