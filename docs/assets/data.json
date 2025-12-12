@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-12-11 00:58:12",
+    "last_updated": "2025-12-12 00:57:24",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 76.33958333333334
+      "score": 75.27291666666667
     },
     {
       "id": "05624205101051",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 46.3
+      "score": 45.03333333333333
     },
     {
       "id": "0562410005101034",
@@ -63,12 +63,12 @@
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
       "cf_handle": "SAHAL01",
-      "cf_color": "gray",
+      "cf_color": "green",
       "cc_handle": "Come_back01 ",
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 39.7
+      "score": 40.733333333333334
     },
     {
       "id": "0562310005101015",
@@ -102,6 +102,17 @@
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
       "score": 22.907692307692308
+    },
+    {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_color": "gray",
+      "cc_handle": "arif334",
+      "cc_color": "gray",
+      "atcoder_handle": "arif334",
+      "atc_color": "gray",
+      "score": 22.35
     },
     {
       "id": "05624205101037",
@@ -234,17 +245,6 @@
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 1.0
-    },
-    {
-      "id": "Faculty",
-      "name": "Arif Ahmad",
-      "cf_handle": "Punter",
-      "cf_color": "gray",
-      "cc_handle": "arif334",
-      "cc_color": "gray",
-      "atcoder_handle": "arif334",
-      "atc_color": "gray",
-      "score": 0.0
     }
   ]
 }
