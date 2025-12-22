@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-12-21 01:01:51",
+    "last_updated": "2025-12-22 01:00:27",
     "total_coders": 22
   },
   "data": [
@@ -16,17 +16,6 @@
       "score": 75.45416666666667
     },
     {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 49.7
-    },
-    {
       "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
@@ -36,17 +25,6 @@
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
       "score": 45.1
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "Murad78",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "green",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 41.6
     },
     {
       "id": "0562310005101015",
@@ -126,6 +104,17 @@
       "score": 12.0
     },
     {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 12.0
+    },
+    {
       "id": "05620205101064",
       "name": "Md. Usman Ahmed Furkan",
       "cf_handle": "usmanfurkan",
@@ -133,6 +122,17 @@
       "cc_handle": "usmanfurkan",
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 10.0
+    },
+    {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "Murad78",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "green",
+      "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 10.0
     },
