@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-12-23 00:57:29",
+    "last_updated": "2025-12-24 00:57:35",
     "total_coders": 22
   },
   "data": [
@@ -60,17 +60,6 @@
       "score": 35.5
     },
     {
-      "id": "210303020016",
-      "name": "Mahfuz Ibne Syful",
-      "cf_handle": "Mahfuz2411",
-      "cf_color": "green",
-      "cc_handle": "Mahfuz2411",
-      "cc_color": "green",
-      "atcoder_handle": "Mahfuz2411",
-      "atc_color": "#804000",
-      "score": 22.907692307692308
-    },
-    {
       "id": "Faculty",
       "name": "Arif Ahmad",
       "cf_handle": "Punter",
@@ -113,6 +102,17 @@
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 12.0
+    },
+    {
+      "id": "210303020016",
+      "name": "Mahfuz Ibne Syful",
+      "cf_handle": "Mahfuz2411",
+      "cf_color": "green",
+      "cc_handle": "Mahfuz2411",
+      "cc_color": "green",
+      "atcoder_handle": "Mahfuz2411",
+      "atc_color": "#804000",
+      "score": 11.0
     },
     {
       "id": "05620205101064",
