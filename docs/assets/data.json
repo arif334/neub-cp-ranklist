@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2025-12-24 00:57:35",
+    "last_updated": "2025-12-25 00:57:29",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.45416666666667
+      "score": 77.1875
     },
     {
       "id": "0562320005101062",
@@ -24,18 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 45.1
-    },
-    {
-      "id": "0562310005101015",
-      "name": "Kushal Panthadas",
-      "cf_handle": "Kushal_151",
-      "cf_color": "gray",
-      "cc_handle": "PANDA_151",
-      "cc_color": "gray",
-      "atcoder_handle": "Kushal_15",
-      "atc_color": "gray",
-      "score": 39.36666666666667
+      "score": 46.36666666666667
     },
     {
       "id": "Alumni",
@@ -135,6 +124,17 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 10.0
+    },
+    {
+      "id": "0562310005101015",
+      "name": "Kushal Panthadas",
+      "cf_handle": "Kushal_151",
+      "cf_color": "gray",
+      "cc_handle": "PANDA_151",
+      "cc_color": "gray",
+      "atcoder_handle": "Kushal_15",
+      "atc_color": "gray",
+      "score": 9.0
     },
     {
       "id": "0562410005101022",
