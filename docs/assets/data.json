@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-01-05 01:04:06",
+    "last_updated": "2026-01-06 00:59:08",
     "total_coders": 22
   },
   "data": [
@@ -25,17 +25,6 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 52.696955128205126
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 51.5923076923077
     },
     {
       "id": "05624205101051",
@@ -80,6 +69,17 @@
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
       "score": 23.83076923076923
+    },
+    {
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
+      "cf_color": "gray",
+      "cc_handle": "mahedianik2",
+      "cc_color": "gray",
+      "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 16.892307692307693
     },
     {
       "id": "0562310005101031",
