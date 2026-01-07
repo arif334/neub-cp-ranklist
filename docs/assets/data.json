@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-01-06 00:59:08",
+    "last_updated": "2026-01-07 00:59:42",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 75.49166666666666
+      "score": 75.625
     },
     {
       "id": "Faculty",
@@ -24,7 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "arif334",
       "atc_color": "gray",
-      "score": 52.696955128205126
+      "score": 52.730288461538464
     },
     {
       "id": "05624205101051",
@@ -46,7 +46,7 @@
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 37.46666666666667
+      "score": 37.5
     },
     {
       "id": "0562220005101039",
@@ -57,7 +57,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 35.6
+      "score": 35.63333333333333
     },
     {
       "id": "210303020016",
