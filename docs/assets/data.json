@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-01-09 00:59:54",
+    "last_updated": "2026-01-10 00:57:47",
     "total_coders": 22
   },
   "data": [
@@ -14,17 +14,6 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 77.225
-    },
-    {
-      "id": "Faculty",
-      "name": "Arif Ahmad",
-      "cf_handle": "Punter",
-      "cf_color": "gray",
-      "cc_handle": "arif334",
-      "cc_color": "gray",
-      "atcoder_handle": "arif334",
-      "atc_color": "gray",
-      "score": 52.730288461538464
     },
     {
       "id": "05624205101051",
@@ -58,6 +47,17 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 35.63333333333333
+    },
+    {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_color": "gray",
+      "cc_handle": "arif334",
+      "cc_color": "gray",
+      "atcoder_handle": "arif334",
+      "atc_color": "gray",
+      "score": 30.361538461538462
     },
     {
       "id": "210303020016",
