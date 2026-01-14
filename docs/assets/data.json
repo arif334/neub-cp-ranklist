@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-01-13 00:55:42",
+    "last_updated": "2026-01-14 01:01:28",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 77.225
+      "score": 78.79166666666667
     },
     {
       "id": "05624205101051",
@@ -46,7 +46,29 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 35.63333333333333
+      "score": 34.63333333333333
+    },
+    {
+      "id": "05624205101063",
+      "name": "Sandip Paul",
+      "cf_handle": "NotThe_ChosenOne",
+      "cf_color": "gray",
+      "cc_handle": "akatsuki_2005",
+      "cc_color": "gray",
+      "atcoder_handle": "THE_AKATSUKI",
+      "atc_color": "gray",
+      "score": 31.4
+    },
+    {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 30.966666666666665
     },
     {
       "id": "Faculty",
@@ -179,28 +201,6 @@
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 6.0
-    },
-    {
-      "id": "05624205101063",
-      "name": "Sandip Paul",
-      "cf_handle": "NotThe_ChosenOne",
-      "cf_color": "gray",
-      "cc_handle": "akatsuki_2005",
-      "cc_color": "gray",
-      "atcoder_handle": "THE_AKATSUKI",
-      "atc_color": "gray",
-      "score": 6.0
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 5.0
     },
     {
       "id": "0562220005101006",
