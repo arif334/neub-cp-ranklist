@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-01-15 00:57:27",
+    "last_updated": "2026-01-16 01:00:04",
     "total_coders": 22
   },
   "data": [
@@ -80,6 +80,17 @@
       "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 30.361538461538462
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
+      "cf_color": "gray",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
+      "atc_color": "gray",
+      "score": 24.31875
     },
     {
       "id": "210303020016",
@@ -188,17 +199,6 @@
       "cc_handle": "aestro01",
       "cc_color": "gray",
       "atcoder_handle": "aestro01",
-      "atc_color": "gray",
-      "score": 6.0
-    },
-    {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
-      "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 6.0
     },
