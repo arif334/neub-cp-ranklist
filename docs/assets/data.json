@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-01-17 00:57:25",
+    "last_updated": "2026-01-18 01:04:08",
     "total_coders": 22
   },
   "data": [
@@ -49,6 +49,17 @@
       "score": 34.63333333333333
     },
     {
+      "id": "0562410005101022",
+      "name": "Jadab Lal Sarkar",
+      "cf_handle": "jadab_691",
+      "cf_color": "gray",
+      "cc_handle": "jadab_691",
+      "cc_color": "gray",
+      "atcoder_handle": "jadab_691",
+      "atc_color": "gray",
+      "score": 33.9
+    },
+    {
       "id": "05624205101063",
       "name": "Sandip Paul",
       "cf_handle": "NotThe_ChosenOne",
@@ -57,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 31.4
+      "score": 32.04615384615384
     },
     {
       "id": "0562220005101016",
@@ -112,7 +123,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 16.892307692307693
+      "score": 16.29230769230769
     },
     {
       "id": "0562310005101031",
@@ -168,17 +179,6 @@
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
       "score": 9.0
-    },
-    {
-      "id": "0562410005101022",
-      "name": "Jadab Lal Sarkar",
-      "cf_handle": "jadab_691",
-      "cf_color": "gray",
-      "cc_handle": "jadab_691",
-      "cc_color": "gray",
-      "atcoder_handle": "jadab_691",
-      "atc_color": "gray",
-      "score": 8.0
     },
     {
       "id": "0562410005101017",
