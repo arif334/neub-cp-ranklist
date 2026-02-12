@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-02-11 01:21:08",
+    "last_updated": "2026-02-12 01:13:56",
     "total_coders": 22
   },
   "data": [
@@ -16,6 +16,17 @@
       "score": 77.78958333333333
     },
     {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 49.36666666666667
+    },
+    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -24,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "Kushal_15",
       "atc_color": "gray",
-      "score": 38.06666666666666
+      "score": 41.1
     },
     {
       "id": "0562410005101034",
@@ -111,17 +122,6 @@
       "cc_handle": "das_akash",
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
-      "atc_color": "gray",
-      "score": 12.0
-    },
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 12.0
     },
