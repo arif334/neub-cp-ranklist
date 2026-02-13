@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-02-12 01:13:56",
+    "last_updated": "2026-02-13 01:17:09",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 77.78958333333333
+      "score": 77.82708333333333
     },
     {
       "id": "0562310005101031",
@@ -80,17 +80,6 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 33.34615384615385
-    },
-    {
-      "id": "0562220005101016",
-      "name": "Fabiha Bushra Chowdhury",
-      "cf_handle": "bushrachowdhury24",
-      "cf_color": "gray",
-      "cc_handle": "bushra_2411",
-      "cc_color": "gray",
-      "atcoder_handle": "Bushra24",
-      "atc_color": "gray",
-      "score": 31.033333333333335
     },
     {
       "id": "05624205101061",
@@ -179,6 +168,17 @@
       "atcoder_handle": "aestro01",
       "atc_color": "gray",
       "score": 6.0
+    },
+    {
+      "id": "0562220005101016",
+      "name": "Fabiha Bushra Chowdhury",
+      "cf_handle": "bushrachowdhury24",
+      "cf_color": "gray",
+      "cc_handle": "bushra_2411",
+      "cc_color": "gray",
+      "atcoder_handle": "Bushra24",
+      "atc_color": "gray",
+      "score": 5.0
     },
     {
       "id": "0562220005101006",
