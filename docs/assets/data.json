@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-02-18 01:14:59",
+    "last_updated": "2026-02-19 01:14:15",
     "total_coders": 22
   },
   "data": [
@@ -58,17 +58,6 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 35.03333333333333
-    },
-    {
-      "id": "05624205101063",
-      "name": "Sandip Paul",
-      "cf_handle": "NotThe_ChosenOne",
-      "cf_color": "gray",
-      "cc_handle": "akatsuki_2005",
-      "cc_color": "gray",
-      "atcoder_handle": "THE_AKATSUKI",
-      "atc_color": "gray",
-      "score": 32.7
     },
     {
       "id": "0562320005101062",
@@ -166,6 +155,17 @@
       "cc_handle": "aestro01",
       "cc_color": "gray",
       "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "05624205101063",
+      "name": "Sandip Paul",
+      "cf_handle": "NotThe_ChosenOne",
+      "cf_color": "gray",
+      "cc_handle": "akatsuki_2005",
+      "cc_color": "gray",
+      "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 6.0
     },
