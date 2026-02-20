@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-02-19 01:14:15",
+    "last_updated": "2026-02-20 01:10:06",
     "total_coders": 22
   },
   "data": [
@@ -13,29 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 74.52708333333334
-    },
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 49.36666666666667
-    },
-    {
-      "id": "0562310005101015",
-      "name": "Kushal Panthadas",
-      "cf_handle": "Kushal_151",
-      "cf_color": "gray",
-      "cc_handle": "PANDA_151",
-      "cc_color": "gray",
-      "atcoder_handle": "Kushal_15",
-      "atc_color": "gray",
-      "score": 41.1
+      "score": 39.19375
     },
     {
       "id": "0562410005101034",
@@ -49,15 +27,15 @@
       "score": 36.34375
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
       "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 35.03333333333333
+      "score": 24.660576923076924
     },
     {
       "id": "0562320005101062",
@@ -82,6 +60,17 @@
       "score": 12.0
     },
     {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 12.0
+    },
+    {
       "id": "05624205101037",
       "name": "Md Tanvir Hasan Chowdhury",
       "cf_handle": "iamtanvir2003",
@@ -96,7 +85,7 @@
       "id": "210303020016",
       "name": "Mahfuz Ibne Syful",
       "cf_handle": "Mahfuz2411",
-      "cf_color": "green",
+      "cf_color": "gray",
       "cc_handle": "Mahfuz2411",
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
@@ -113,6 +102,17 @@
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
       "score": 10.0
+    },
+    {
+      "id": "0562310005101015",
+      "name": "Kushal Panthadas",
+      "cf_handle": "Kushal_151",
+      "cf_color": "gray",
+      "cc_handle": "PANDA_151",
+      "cc_color": "gray",
+      "atcoder_handle": "Kushal_15",
+      "atc_color": "gray",
+      "score": 9.0
     },
     {
       "id": "0562410005101022",
@@ -137,15 +137,15 @@
       "score": 7.0
     },
     {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
       "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 6.623076923076923
+      "score": 7.0
     },
     {
       "id": "05624205101026",
