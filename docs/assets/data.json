@@ -1,20 +1,9 @@
 {
   "meta": {
-    "last_updated": "2026-03-06 01:15:16",
+    "last_updated": "2026-03-07 01:07:00",
     "total_coders": 22
   },
   "data": [
-    {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "gray",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 74.52708333333334
-    },
     {
       "id": "0562310005101031",
       "name": "Jakaria Chowdhury Tajwone",
@@ -25,6 +14,17 @@
       "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 49.36666666666667
+    },
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "gray",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 48.333333333333336
     },
     {
       "id": "0562310005101015",
