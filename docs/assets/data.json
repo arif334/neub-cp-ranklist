@@ -1,20 +1,9 @@
 {
   "meta": {
-    "last_updated": "2026-03-14 01:09:18",
+    "last_updated": "2026-03-15 01:20:59",
     "total_coders": 22
   },
   "data": [
-    {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 49.36666666666667
-    },
     {
       "id": "05624205101055",
       "name": "Md Ajharul Islam",
@@ -25,17 +14,6 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 48.333333333333336
-    },
-    {
-      "id": "0562310005101015",
-      "name": "Kushal Panthadas",
-      "cf_handle": "Kushal_151",
-      "cf_color": "gray",
-      "cc_handle": "PANDA_151",
-      "cc_color": "gray",
-      "atcoder_handle": "Kushal_15",
-      "atc_color": "gray",
-      "score": 41.1
     },
     {
       "id": "0562220005101039",
@@ -78,6 +56,17 @@
       "cc_handle": "das_akash",
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
+      "atc_color": "gray",
+      "score": 12.0
+    },
+    {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 12.0
     },
@@ -135,6 +124,17 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 10.0
+    },
+    {
+      "id": "0562310005101015",
+      "name": "Kushal Panthadas",
+      "cf_handle": "Kushal_151",
+      "cf_color": "gray",
+      "cc_handle": "PANDA_151",
+      "cc_color": "gray",
+      "atcoder_handle": "Kushal_15",
+      "atc_color": "gray",
+      "score": 9.0
     },
     {
       "id": "0562410005101022",
