@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-20 01:12:01",
+    "last_updated": "2026-03-21 01:07:28",
     "total_coders": 22
   },
   "data": [
@@ -25,17 +25,6 @@
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
       "score": 32.9
-    },
-    {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
-      "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
-      "atc_color": "gray",
-      "score": 24.1125
     },
     {
       "id": "05624205101055",
@@ -166,6 +155,17 @@
       "cc_handle": "aestro01",
       "cc_color": "gray",
       "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 6.0
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
+      "cf_color": "gray",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
       "score": 6.0
     },
