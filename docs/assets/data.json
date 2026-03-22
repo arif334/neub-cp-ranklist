@@ -1,9 +1,20 @@
 {
   "meta": {
-    "last_updated": "2026-03-21 01:07:28",
+    "last_updated": "2026-03-22 01:16:03",
     "total_coders": 22
   },
   "data": [
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "gray",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 52.264102564102565
+    },
     {
       "id": "0562220005101039",
       "name": "Kazi Abu Sayed Jilani",
@@ -27,15 +38,15 @@
       "score": 32.9
     },
     {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
       "cf_color": "gray",
-      "cc_handle": "saklan",
+      "cc_handle": "bytequest",
       "cc_color": "gray",
-      "atcoder_handle": "saklan",
+      "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
-      "score": 13.0
+      "score": 14.266666666666667
     },
     {
       "id": "05624205101051",
@@ -181,6 +192,17 @@
       "score": 5.0
     },
     {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_color": "gray",
+      "cc_handle": "arif334",
+      "cc_color": "gray",
+      "atcoder_handle": "arif334",
+      "atc_color": "gray",
+      "score": 3.6
+    },
+    {
       "id": "0562220005101006",
       "name": "Lubna Yesmin",
       "cf_handle": "Lubna_Yesmin",
@@ -214,17 +236,6 @@
       "score": 1.0
     },
     {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
-      "cf_color": "gray",
-      "cc_handle": "bytequest",
-      "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
-      "atc_color": "gray",
-      "score": 1.0
-    },
-    {
       "id": "Alumni",
       "name": "Abdullah Al Mamun",
       "cf_handle": "SAHAL01",
@@ -232,17 +243,6 @@
       "cc_handle": "Come_back01 ",
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 0.0
-    },
-    {
-      "id": "Faculty",
-      "name": "Arif Ahmad",
-      "cf_handle": "Punter",
-      "cf_color": "gray",
-      "cc_handle": "arif334",
-      "cc_color": "gray",
-      "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 0.0
     }
