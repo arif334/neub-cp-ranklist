@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-28 01:14:21",
+    "last_updated": "2026-03-29 01:23:15",
     "total_coders": 22
   },
   "data": [
@@ -13,7 +13,29 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 78.83285256410257
+      "score": 78.0661858974359
+    },
+    {
+      "id": "05624205101051",
+      "name": "Prodipta Shakar Das Akash",
+      "cf_handle": "Das_Akash1",
+      "cf_color": "gray",
+      "cc_handle": "das_akash",
+      "cc_color": "gray",
+      "atcoder_handle": "das_akash",
+      "atc_color": "gray",
+      "score": 67.78685897435898
+    },
+    {
+      "id": "05624205101026",
+      "name": "Tajmin Akter",
+      "cf_handle": "aestro01",
+      "cf_color": "gray",
+      "cc_handle": "aestro01",
+      "cc_color": "gray",
+      "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 50.35416666666667
     },
     {
       "id": "0562410005101034",
@@ -25,17 +47,6 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 35.5
-    },
-    {
-      "id": "05624205101051",
-      "name": "Prodipta Shakar Das Akash",
-      "cf_handle": "Das_Akash1",
-      "cf_color": "gray",
-      "cc_handle": "das_akash",
-      "cc_color": "gray",
-      "atcoder_handle": "das_akash",
-      "atc_color": "gray",
-      "score": 34.6125
     },
     {
       "id": "05624205101063",
@@ -60,15 +71,15 @@
       "score": 25.8625
     },
     {
-      "id": "05624205101026",
-      "name": "Tajmin Akter",
-      "cf_handle": "aestro01",
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
       "cf_color": "gray",
-      "cc_handle": "aestro01",
+      "cc_handle": "mahedianik2",
       "cc_color": "gray",
-      "atcoder_handle": "aestro01",
+      "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 22.3875
+      "score": 17.16923076923077
     },
     {
       "id": "05624205101062",
@@ -89,17 +100,6 @@
       "cc_handle": "tajwone_17",
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 12.0
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
       "score": 12.0
     },
@@ -200,7 +200,7 @@
       "cc_color": "gray",
       "atcoder_handle": "arif334",
       "atc_color": "gray",
-      "score": 3.6
+      "score": 3.5307692307692307
     },
     {
       "id": "0562220005101006",
