@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03 01:21:15",
+    "last_updated": "2026-04-04 01:15:19",
     "total_coders": 22
   },
   "data": [
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 35.5
+      "score": 34.80625
     },
     {
       "id": "0562410005101017",
@@ -57,7 +57,7 @@
       "cc_color": "gray",
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
-      "score": 25.8625
+      "score": 25.91875
     },
     {
       "id": "05624205101062",
