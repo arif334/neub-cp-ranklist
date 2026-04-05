@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-04 01:15:19",
+    "last_updated": "2026-04-05 01:24:30",
     "total_coders": 22
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 69.6826923076923
+      "score": 70.05192307692307
     },
     {
       "id": "05624205101026",
@@ -82,17 +82,6 @@
       "score": 17.16923076923077
     },
     {
-      "id": "0562310005101031",
-      "name": "Jakaria Chowdhury Tajwone",
-      "cf_handle": "tajwone17",
-      "cf_color": "gray",
-      "cc_handle": "tajwone_17",
-      "cc_color": "green",
-      "atcoder_handle": "tajwone17",
-      "atc_color": "gray",
-      "score": 12.0
-    },
-    {
       "id": "05624205101037",
       "name": "Md Tanvir Hasan Chowdhury",
       "cf_handle": "iamtanvir2003",
@@ -100,6 +89,17 @@
       "cc_handle": "tanvir_156",
       "cc_color": "gray",
       "atcoder_handle": "tanvir_156",
+      "atc_color": "gray",
+      "score": 13.038461538461538
+    },
+    {
+      "id": "0562310005101031",
+      "name": "Jakaria Chowdhury Tajwone",
+      "cf_handle": "tajwone17",
+      "cf_color": "gray",
+      "cc_handle": "tajwone_17",
+      "cc_color": "green",
+      "atcoder_handle": "tajwone17",
       "atc_color": "gray",
       "score": 12.0
     },
