@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-13 01:30:15",
+    "last_updated": "2026-04-14 01:27:50",
     "total_coders": 22
   },
   "data": [
@@ -49,17 +49,6 @@
       "score": 38.42820512820513
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 35.233333333333334
-    },
-    {
       "id": "0562410005101034",
       "name": "Md. Murad Ahmed Tahmim",
       "cf_handle": "Murad78",
@@ -69,6 +58,17 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 34.76875
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 33.33333333333333
     },
     {
       "id": "0562410005101017",
