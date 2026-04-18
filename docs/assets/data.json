@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-04-17 01:27:48",
-    "total_coders": 22
+    "last_updated": "2026-04-18 01:21:19",
+    "total_coders": 25
   },
   "data": [
     {
@@ -60,6 +60,17 @@
       "score": 34.825
     },
     {
+      "id": "05625105101014",
+      "name": "Khayrul Islam",
+      "cf_handle": "coder-khayrul",
+      "cf_color": "gray",
+      "cc_handle": "coder_khayrul",
+      "cc_color": "gray",
+      "atcoder_handle": "coder_khayrul",
+      "atc_color": "gray",
+      "score": 33.7
+    },
+    {
       "id": "0562220005101039",
       "name": "Kazi Abu Sayed Jilani",
       "cf_handle": "phantomphoton_",
@@ -69,6 +80,17 @@
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
       "score": 33.33333333333333
+    },
+    {
+      "id": "05624205101065",
+      "name": "Md Hossain Shihab",
+      "cf_handle": "shihab65",
+      "cf_color": "gray",
+      "cc_handle": "shihab65",
+      "cc_color": "gray",
+      "atcoder_handle": "shihab65",
+      "atc_color": "gray",
+      "score": 29.2
     },
     {
       "id": "0562410005101017",
@@ -86,7 +108,7 @@
       "name": "Hridoy Paul",
       "cf_handle": "iamhridoy18",
       "cf_color": "gray",
-      "cc_handle": "bytequest",
+      "cc_handle": "bytequest18",
       "cc_color": "gray",
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
@@ -133,6 +155,17 @@
       "cc_handle": "usmanfurkan",
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 10.0
+    },
+    {
+      "id": "190303020014",
+      "name": "Md Shuhan Miah",
+      "cf_handle": "shuhan_ahmed",
+      "cf_color": "gray",
+      "cc_handle": "shuhan_ahmed",
+      "cc_color": "gray",
+      "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 10.0
     },
@@ -240,8 +273,8 @@
       "name": "Abdullah Al Mamun",
       "cf_handle": "SAHAL01",
       "cf_color": "gray",
-      "cc_handle": "Come_back01 ",
-      "cc_color": "green",
+      "cc_handle": "Come_back01",
+      "cc_color": "gray",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
       "score": 0.0
