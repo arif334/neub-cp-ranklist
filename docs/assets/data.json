@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-18 01:21:19",
+    "last_updated": "2026-04-19 01:43:51",
     "total_coders": 25
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "green",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 79.26618589743589
+      "score": 79.7738782051282
     },
     {
       "id": "05624205101051",
@@ -38,6 +38,17 @@
       "score": 50.387499999999996
     },
     {
+      "id": "05624205101065",
+      "name": "Md Hossain Shihab",
+      "cf_handle": "shihab65",
+      "cf_color": "gray",
+      "cc_handle": "shihab65",
+      "cc_color": "gray",
+      "atcoder_handle": "shihab65",
+      "atc_color": "gray",
+      "score": 43.825
+    },
+    {
       "id": "05624205101037",
       "name": "Md Tanvir Hasan Chowdhury",
       "cf_handle": "iamtanvir2003",
@@ -47,6 +58,17 @@
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
       "score": 38.42820512820513
+    },
+    {
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
+      "cf_color": "gray",
+      "cc_handle": "bytequest18",
+      "cc_color": "gray",
+      "atcoder_handle": "ByteQuest",
+      "atc_color": "gray",
+      "score": 38.24791666666667
     },
     {
       "id": "0562410005101034",
@@ -82,17 +104,6 @@
       "score": 33.33333333333333
     },
     {
-      "id": "05624205101065",
-      "name": "Md Hossain Shihab",
-      "cf_handle": "shihab65",
-      "cf_color": "gray",
-      "cc_handle": "shihab65",
-      "cc_color": "gray",
-      "atcoder_handle": "shihab65",
-      "atc_color": "gray",
-      "score": 29.2
-    },
-    {
       "id": "0562410005101017",
       "name": "Oly Ahmed",
       "cf_handle": "olyahmed_680",
@@ -102,17 +113,6 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 25.8625
-    },
-    {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
-      "cf_color": "gray",
-      "cc_handle": "bytequest18",
-      "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
-      "atc_color": "gray",
-      "score": 21.766666666666666
     },
     {
       "id": "0562320005101062",
@@ -164,7 +164,7 @@
       "cf_handle": "shuhan_ahmed",
       "cf_color": "gray",
       "cc_handle": "shuhan_ahmed",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 10.0
@@ -274,7 +274,7 @@
       "cf_handle": "SAHAL01",
       "cf_color": "gray",
       "cc_handle": "Come_back01",
-      "cc_color": "gray",
+      "cc_color": "green",
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
       "score": 0.0
