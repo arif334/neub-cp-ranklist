@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-26 01:45:29",
+    "last_updated": "2026-04-27 01:49:38",
     "total_coders": 25
   },
   "data": [
@@ -25,6 +25,17 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 53.205128205128204
+    },
+    {
+      "id": "05624205101026",
+      "name": "Tajmin Akter",
+      "cf_handle": "aestro01",
+      "cf_color": "gray",
+      "cc_handle": "aestro01",
+      "cc_color": "gray",
+      "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 50.387499999999996
     },
     {
       "id": "05624205101037",
@@ -91,17 +102,6 @@
       "atcoder_handle": "shihab65",
       "atc_color": "gray",
       "score": 29.2
-    },
-    {
-      "id": "05624205101026",
-      "name": "Tajmin Akter",
-      "cf_handle": "aestro01",
-      "cf_color": "gray",
-      "cc_handle": "aestro01",
-      "cc_color": "gray",
-      "atcoder_handle": "aestro01",
-      "atc_color": "gray",
-      "score": 22.0875
     },
     {
       "id": "0562320005101062",
