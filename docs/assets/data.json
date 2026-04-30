@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-29 01:59:37",
+    "last_updated": "2026-04-30 01:59:06",
     "total_coders": 25
   },
   "data": [
@@ -14,17 +14,6 @@
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
       "score": 70.09775641025641
-    },
-    {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "green",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 53.205128205128204
     },
     {
       "id": "05624205101026",
@@ -47,17 +36,6 @@
       "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
       "score": 38.42820512820513
-    },
-    {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
-      "cf_color": "gray",
-      "cc_handle": "bytequest18",
-      "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
-      "atc_color": "gray",
-      "score": 38.24791666666667
     },
     {
       "id": "0562410005101034",
@@ -102,6 +80,28 @@
       "atcoder_handle": "shihab65",
       "atc_color": "gray",
       "score": 29.2
+    },
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "green",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 18.838461538461537
+    },
+    {
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
+      "cf_color": "gray",
+      "cc_handle": "bytequest18",
+      "cc_color": "gray",
+      "atcoder_handle": "ByteQuest",
+      "atc_color": "gray",
+      "score": 17.48125
     },
     {
       "id": "0562310005101031",
