@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-29 02:07:57",
+    "last_updated": "2026-05-30 02:03:20",
     "total_coders": 24
   },
   "data": [
@@ -35,29 +35,7 @@
       "cc_color": "green",
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
-      "score": 72.35
-    },
-    {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 67.3625
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "BitwiseBrain_",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 63.70416666666667
+      "score": 43.7
     },
     {
       "id": "05620205101064",
@@ -68,7 +46,29 @@
       "cc_color": "gray",
       "atcoder_handle": "usmanfurkan ",
       "atc_color": "gray",
-      "score": 57.58541666666667
+      "score": 40.766666666666666
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 39.8
+    },
+    {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "BitwiseBrain_",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
+      "atc_color": "gray",
+      "score": 39.66666666666667
     },
     {
       "id": "05624205101063",
@@ -79,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "THE_AKATSUKI",
       "atc_color": "gray",
-      "score": 51.02916666666667
+      "score": 33.36666666666667
     },
     {
       "id": "05624205101062",
@@ -90,40 +90,7 @@
       "cc_color": "gray",
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
-      "score": 44.306250000000006
-    },
-    {
-      "id": "05624205101037",
-      "name": "Md Tanvir Hasan Chowdhury",
-      "cf_handle": "iamtanvir2003",
-      "cf_color": "gray",
-      "cc_handle": "tanvir_156",
-      "cc_color": "gray",
-      "atcoder_handle": "tanvir_156",
-      "atc_color": "gray",
-      "score": 26.33125
-    },
-    {
-      "id": "05624205101065",
-      "name": "Md Hossain Shihab",
-      "cf_handle": "shihab65",
-      "cf_color": "gray",
-      "cc_handle": "shihab65",
-      "cc_color": "gray",
-      "atcoder_handle": "shihab65",
-      "atc_color": "gray",
-      "score": 26.01875
-    },
-    {
-      "id": "05624205101061",
-      "name": "Sudip Paul",
-      "cf_handle": "WhatADrag\u2026",
-      "cf_color": "gray",
-      "cc_handle": "what_a_drag_99",
-      "cc_color": "gray",
-      "atcoder_handle": "WhatADrag ",
-      "atc_color": "gray",
-      "score": 25.24375
+      "score": 27.6
     },
     {
       "id": "0562320005101062",
@@ -133,6 +100,17 @@
       "cc_handle": "mahedianik2",
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
+      "atc_color": "gray",
+      "score": 13.0
+    },
+    {
+      "id": "05624205101037",
+      "name": "Md Tanvir Hasan Chowdhury",
+      "cf_handle": "iamtanvir2003",
+      "cf_color": "gray",
+      "cc_handle": "tanvir_156",
+      "cc_color": "gray",
+      "atcoder_handle": "tanvir_156",
       "atc_color": "gray",
       "score": 13.0
     },
@@ -159,6 +137,17 @@
       "score": 11.0
     },
     {
+      "id": "05624205101065",
+      "name": "Md Hossain Shihab",
+      "cf_handle": "shihab65",
+      "cf_color": "gray",
+      "cc_handle": "shihab65",
+      "cc_color": "gray",
+      "atcoder_handle": "shihab65",
+      "atc_color": "gray",
+      "score": 11.0
+    },
+    {
       "id": "0562310005101015",
       "name": "Kushal Panthadas",
       "cf_handle": "Kushal_151",
@@ -179,6 +168,17 @@
       "atcoder_handle": "coder_khayrul",
       "atc_color": "gray",
       "score": 9.0
+    },
+    {
+      "id": "05624205101061",
+      "name": "Sudip Paul",
+      "cf_handle": "WhatADrag\u2026",
+      "cf_color": "gray",
+      "cc_handle": "what_a_drag_99",
+      "cc_color": "gray",
+      "atcoder_handle": "WhatADrag ",
+      "atc_color": "gray",
+      "score": 7.0
     },
     {
       "id": "0562410005101022",
