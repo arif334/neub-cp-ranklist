@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-06 02:07:08",
+    "last_updated": "2026-06-07 02:34:12",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 73.94791666666666
+      "score": 79.34791666666666
     },
     {
       "id": "05624205101051",
@@ -56,7 +56,7 @@
       "cc_handle": "Mahfuz2411",
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
-      "atc_color": "gray",
+      "atc_color": "#804000",
       "score": 11.0
     },
     {
@@ -156,7 +156,7 @@
       "cc_color": "gray",
       "atcoder_handle": "WhatADrag ",
       "atc_color": "gray",
-      "score": 7.0
+      "score": 7.6692307692307695
     },
     {
       "id": "05624205101063",
