@@ -1,20 +1,9 @@
 {
   "meta": {
-    "last_updated": "2026-06-10 02:28:41",
+    "last_updated": "2026-06-11 02:38:25",
     "total_coders": 24
   },
   "data": [
-    {
-      "id": "05624205101055",
-      "name": "Md Ajharul Islam",
-      "cf_handle": "saklan",
-      "cf_color": "gray",
-      "cc_handle": "saklan",
-      "cc_color": "gray",
-      "atcoder_handle": "saklan",
-      "atc_color": "gray",
-      "score": 73.94791666666666
-    },
     {
       "id": "05624205101051",
       "name": "Prodipta Shakar Das Akash",
@@ -25,6 +14,17 @@
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
       "score": 72.36041666666667
+    },
+    {
+      "id": "05624205101055",
+      "name": "Md Ajharul Islam",
+      "cf_handle": "saklan",
+      "cf_color": "gray",
+      "cc_handle": "saklan",
+      "cc_color": "gray",
+      "atcoder_handle": "saklan",
+      "atc_color": "gray",
+      "score": 70.58125
     },
     {
       "id": "0562320005101062",
