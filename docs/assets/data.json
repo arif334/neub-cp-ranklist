@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-06-13 02:15:17",
+    "last_updated": "2026-06-14 02:38:15",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 72.84791666666666
+      "score": 72.78125
     },
     {
       "id": "05624205101055",
@@ -25,6 +25,17 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 70.58125
+    },
+    {
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
+      "cf_color": "gray",
+      "cc_handle": "bytequest18",
+      "cc_color": "gray",
+      "atcoder_handle": "ByteQuest",
+      "atc_color": "gray",
+      "score": 29.266666666666666
     },
     {
       "id": "0562320005101062",
@@ -221,17 +232,6 @@
       "cc_handle": "lubnayesmin",
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
-      "atc_color": "gray",
-      "score": 2.0
-    },
-    {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
-      "cf_color": "gray",
-      "cc_handle": "bytequest18",
-      "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 2.0
     },
