@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-11 01:43:11",
+    "last_updated": "2026-07-12 01:45:11",
     "total_coders": 24
   },
   "data": [
@@ -27,15 +27,15 @@
       "score": 38.53333333333333
     },
     {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
+      "id": "0562320005101062",
+      "name": "Mahedi Hasan Anik",
+      "cf_handle": "A_Dead_Man",
       "cf_color": "gray",
-      "cc_handle": "bytequest18",
+      "cc_handle": "mahedianik2",
       "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
+      "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 29.266666666666666
+      "score": 17.546153846153846
     },
     {
       "id": "05624205101055",
@@ -47,17 +47,6 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 14.0
-    },
-    {
-      "id": "0562320005101062",
-      "name": "Mahedi Hasan Anik",
-      "cf_handle": "A_Dead_Man",
-      "cf_color": "gray",
-      "cc_handle": "mahedianik2",
-      "cc_color": "gray",
-      "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 13.0
     },
     {
       "id": "05624205101037",
@@ -232,6 +221,17 @@
       "cc_handle": "lubnayesmin",
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 2.0
+    },
+    {
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
+      "cf_color": "gray",
+      "cc_handle": "bytequest18",
+      "cc_color": "gray",
+      "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 2.0
     },
