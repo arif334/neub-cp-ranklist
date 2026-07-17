@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-16 01:41:45",
+    "last_updated": "2026-07-17 01:45:20",
     "total_coders": 24
   },
   "data": [
@@ -27,15 +27,15 @@
       "score": 42.5
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
       "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
+      "cc_handle": "Come_back01",
       "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
+      "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
-      "score": 36.733333333333334
+      "score": 36.86666666666667
     },
     {
       "id": "0562320005101062",
@@ -148,6 +148,17 @@
       "score": 9.0
     },
     {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 8.0
+    },
+    {
       "id": "05624205101061",
       "name": "Sudip Paul",
       "cf_handle": "WhatADrag\u2026",
@@ -245,17 +256,6 @@
       "atcoder_handle": "HM_Emon",
       "atc_color": "gray",
       "score": 2.0
-    },
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 0.0
     },
     {
       "id": "Faculty",
