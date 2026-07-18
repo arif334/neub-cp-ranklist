@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-17 01:45:20",
+    "last_updated": "2026-07-18 01:25:41",
     "total_coders": 24
   },
   "data": [
@@ -36,6 +36,17 @@
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
       "score": 36.86666666666667
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 36.733333333333334
     },
     {
       "id": "0562320005101062",
@@ -146,17 +157,6 @@
       "atcoder_handle": "coder_khayrul",
       "atc_color": "gray",
       "score": 9.0
-    },
-    {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 8.0
     },
     {
       "id": "05624205101061",
