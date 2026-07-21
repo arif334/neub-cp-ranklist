@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-20 01:59:05",
+    "last_updated": "2026-07-21 01:43:04",
     "total_coders": 24
   },
   "data": [
@@ -25,6 +25,17 @@
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 41.83333333333333
+    },
+    {
+      "id": "Alumni",
+      "name": "Abdullah Al Mamun",
+      "cf_handle": "SAHAL01",
+      "cf_color": "gray",
+      "cc_handle": "Come_back01",
+      "cc_color": "green",
+      "atcoder_handle": "SAHAL01",
+      "atc_color": "gray",
+      "score": 36.86666666666667
     },
     {
       "id": "0562220005101039",
@@ -245,17 +256,6 @@
       "atcoder_handle": "HM_Emon",
       "atc_color": "gray",
       "score": 2.0
-    },
-    {
-      "id": "Alumni",
-      "name": "Abdullah Al Mamun",
-      "cf_handle": "SAHAL01",
-      "cf_color": "gray",
-      "cc_handle": "Come_back01",
-      "cc_color": "green",
-      "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 0.0
     },
     {
       "id": "Faculty",
