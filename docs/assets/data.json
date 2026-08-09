@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-08 00:51:18",
+    "last_updated": "2026-08-09 00:54:20",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 44.33333333333333
+      "score": 46.03333333333333
     },
     {
       "id": "05624205101051",
@@ -24,18 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 42.766666666666666
-    },
-    {
-      "id": "190303020014",
-      "name": "Md Shuhan Miah",
-      "cf_handle": "shuhan_ahmed",
-      "cf_color": "gray",
-      "cc_handle": "shuhan_ahmed",
-      "cc_color": "green",
-      "atcoder_handle": "shuhan_ahmed",
-      "atc_color": "gray",
-      "score": 41.16666666666667
+      "score": 42.266666666666666
     },
     {
       "id": "0562410005101034",
@@ -46,7 +35,29 @@
       "cc_color": "gray",
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 39.733333333333334
+      "score": 39.63333333333333
+    },
+    {
+      "id": "190303020014",
+      "name": "Md Shuhan Miah",
+      "cf_handle": "shuhan_ahmed",
+      "cf_color": "gray",
+      "cc_handle": "shuhan_ahmed",
+      "cc_color": "green",
+      "atcoder_handle": "shuhan_ahmed",
+      "atc_color": "gray",
+      "score": 39.4
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 37.56666666666666
     },
     {
       "id": "Alumni",
@@ -60,17 +71,6 @@
       "score": 36.86666666666667
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 36.06666666666666
-    },
-    {
       "id": "0562320005101062",
       "name": "Mahedi Hasan Anik",
       "cf_handle": "A_Dead_Man",
@@ -79,7 +79,7 @@
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
       "atc_color": "gray",
-      "score": 17.546153846153846
+      "score": 18.607692307692307
     },
     {
       "id": "05624205101037",
