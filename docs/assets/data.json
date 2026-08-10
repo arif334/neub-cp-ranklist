@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-08-09 00:54:20",
+    "last_updated": "2026-08-10 00:56:25",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 46.03333333333333
+      "score": 45.03333333333333
     },
     {
       "id": "05624205101051",
@@ -24,18 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 42.266666666666666
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "BitwiseBrain_",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 39.63333333333333
+      "score": 40.733333333333334
     },
     {
       "id": "190303020014",
@@ -46,18 +35,18 @@
       "cc_color": "green",
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
-      "score": 39.4
+      "score": 39.13333333333333
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "BitwiseBrain_",
       "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
-      "score": 37.56666666666666
+      "score": 38.53333333333333
     },
     {
       "id": "Alumni",
@@ -69,6 +58,28 @@
       "atcoder_handle": "SAHAL01",
       "atc_color": "gray",
       "score": 36.86666666666667
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 35.36666666666667
+    },
+    {
+      "id": "05624205101026",
+      "name": "Tajmin Akter",
+      "cf_handle": "aestro01",
+      "cf_color": "gray",
+      "cc_handle": "aestro01",
+      "cc_color": "gray",
+      "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 32.43333333333334
     },
     {
       "id": "0562320005101062",
@@ -201,17 +212,6 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 6.0
-    },
-    {
-      "id": "05624205101026",
-      "name": "Tajmin Akter",
-      "cf_handle": "aestro01",
-      "cf_color": "gray",
-      "cc_handle": "aestro01",
-      "cc_color": "gray",
-      "atcoder_handle": "aestro01",
-      "atc_color": "gray",
-      "score": 5.0
     },
     {
       "id": "0562220005101016",
