@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-01 02:34:45",
+    "last_updated": "2026-09-02 01:55:49",
     "total_coders": 24
   },
   "data": [
@@ -214,17 +214,6 @@
       "score": 4.0
     },
     {
-      "id": "05624205101062",
-      "name": "Hridoy Paul",
-      "cf_handle": "iamhridoy18",
-      "cf_color": "gray",
-      "cc_handle": "bytequest18",
-      "cc_color": "gray",
-      "atcoder_handle": "ByteQuest",
-      "atc_color": "gray",
-      "score": 2.4615384615384617
-    },
-    {
       "id": "0562220005101006",
       "name": "Lubna Yesmin",
       "cf_handle": "Lubna_Yesmin",
@@ -232,6 +221,17 @@
       "cc_handle": "lubnayesmin",
       "cc_color": "gray",
       "atcoder_handle": "LubnaYesmin",
+      "atc_color": "gray",
+      "score": 2.0
+    },
+    {
+      "id": "05624205101062",
+      "name": "Hridoy Paul",
+      "cf_handle": "iamhridoy18",
+      "cf_color": "gray",
+      "cc_handle": "bytequest18",
+      "cc_color": "gray",
+      "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 2.0
     },
