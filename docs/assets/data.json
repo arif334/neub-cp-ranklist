@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-06 01:52:04",
+    "last_updated": "2026-09-07 01:49:21",
     "total_coders": 24
   },
   "data": [
@@ -35,18 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 45.266666666666666
-    },
-    {
-      "id": "190303020014",
-      "name": "Md Shuhan Miah",
-      "cf_handle": "shuhan_ahmed",
-      "cf_color": "gray",
-      "cc_handle": "shuhan_ahmed",
-      "cc_color": "green",
-      "atcoder_handle": "shuhan_ahmed",
-      "atc_color": "gray",
-      "score": 38.43333333333334
+      "score": 48.333333333333336
     },
     {
       "id": "0562220005101039",
@@ -57,7 +46,18 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 38.2
+      "score": 39.266666666666666
+    },
+    {
+      "id": "190303020014",
+      "name": "Md Shuhan Miah",
+      "cf_handle": "shuhan_ahmed",
+      "cf_color": "gray",
+      "cc_handle": "shuhan_ahmed",
+      "cc_color": "green",
+      "atcoder_handle": "shuhan_ahmed",
+      "atc_color": "gray",
+      "score": 35.06666666666666
     },
     {
       "id": "05624205101026",
