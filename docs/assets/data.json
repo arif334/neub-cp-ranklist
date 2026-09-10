@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-09 02:05:41",
+    "last_updated": "2026-09-10 02:02:25",
     "total_coders": 24
   },
   "data": [
@@ -13,18 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 66.38333333333333
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "BitwiseBrain_",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 63.27708333333334
+      "score": 68.61666666666667
     },
     {
       "id": "05624205101055",
@@ -49,6 +38,17 @@
       "score": 39.266666666666666
     },
     {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "BitwiseBrain_",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
+      "atc_color": "gray",
+      "score": 35.54375
+    },
+    {
       "id": "190303020014",
       "name": "Md Shuhan Miah",
       "cf_handle": "shuhan_ahmed",
@@ -58,17 +58,6 @@
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 35.06666666666666
-    },
-    {
-      "id": "05624205101026",
-      "name": "Tajmin Akter",
-      "cf_handle": "aestro01",
-      "cf_color": "gray",
-      "cc_handle": "aestro01",
-      "cc_color": "gray",
-      "atcoder_handle": "aestro01",
-      "atc_color": "gray",
-      "score": 32.46666666666667
     },
     {
       "id": "0562320005101062",
@@ -201,6 +190,17 @@
       "atcoder_handle": "olyahmed_680",
       "atc_color": "gray",
       "score": 6.0
+    },
+    {
+      "id": "05624205101026",
+      "name": "Tajmin Akter",
+      "cf_handle": "aestro01",
+      "cf_color": "gray",
+      "cc_handle": "aestro01",
+      "cc_color": "gray",
+      "atcoder_handle": "aestro01",
+      "atc_color": "gray",
+      "score": 5.0
     },
     {
       "id": "0562220005101016",
