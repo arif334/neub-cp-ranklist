@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-18 02:07:51",
+    "last_updated": "2026-09-19 02:11:37",
     "total_coders": 24
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 42.8
+      "score": 42.9
     },
     {
       "id": "0562220005101039",
@@ -38,17 +38,6 @@
       "score": 39.266666666666666
     },
     {
-      "id": "190303020014",
-      "name": "Md Shuhan Miah",
-      "cf_handle": "shuhan_ahmed",
-      "cf_color": "gray",
-      "cc_handle": "shuhan_ahmed",
-      "cc_color": "green",
-      "atcoder_handle": "shuhan_ahmed",
-      "atc_color": "gray",
-      "score": 35.06666666666666
-    },
-    {
       "id": "0562410005101034",
       "name": "Md. Murad Ahmed Tahmim",
       "cf_handle": "BitwiseBrain_",
@@ -58,6 +47,17 @@
       "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 35.0375
+    },
+    {
+      "id": "190303020014",
+      "name": "Md Shuhan Miah",
+      "cf_handle": "shuhan_ahmed",
+      "cf_color": "gray",
+      "cc_handle": "shuhan_ahmed",
+      "cc_color": "green",
+      "atcoder_handle": "shuhan_ahmed",
+      "atc_color": "gray",
+      "score": 35.03333333333333
     },
     {
       "id": "0562320005101062",
