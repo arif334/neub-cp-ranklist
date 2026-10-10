@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-09 03:36:46",
+    "last_updated": "2026-10-10 03:17:52",
     "total_coders": 24
   },
   "data": [
@@ -36,17 +36,6 @@
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 36.56666666666666
-    },
-    {
-      "id": "0562410005101034",
-      "name": "Md. Murad Ahmed Tahmim",
-      "cf_handle": "BitwiseBrain_",
-      "cf_color": "gray",
-      "cc_handle": "murad_neub",
-      "cc_color": "gray",
-      "atcoder_handle": "MURAD_NEUB",
-      "atc_color": "gray",
-      "score": 35.0375
     },
     {
       "id": "0562320005101062",
@@ -100,6 +89,17 @@
       "cc_handle": "tajwone_17",
       "cc_color": "green",
       "atcoder_handle": "tajwone17",
+      "atc_color": "gray",
+      "score": 11.0
+    },
+    {
+      "id": "0562410005101034",
+      "name": "Md. Murad Ahmed Tahmim",
+      "cf_handle": "BitwiseBrain_",
+      "cf_color": "gray",
+      "cc_handle": "murad_neub",
+      "cc_color": "gray",
+      "atcoder_handle": "MURAD_NEUB",
       "atc_color": "gray",
       "score": 11.0
     },
