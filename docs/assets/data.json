@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-10-15 02:18:56",
+    "last_updated": "2026-10-16 02:11:25",
     "total_coders": 24
   },
   "data": [
@@ -13,7 +13,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 50.03333333333333
+      "score": 51.06666666666667
     },
     {
       "id": "05624205101051",
@@ -27,6 +27,17 @@
       "score": 46.6
     },
     {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
+      "score": 40.53333333333333
+    },
+    {
       "id": "190303020014",
       "name": "Md Shuhan Miah",
       "cf_handle": "shuhan_ahmed",
@@ -35,7 +46,7 @@
       "cc_color": "green",
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
-      "score": 36.56666666666666
+      "score": 36.7
     },
     {
       "id": "0562320005101062",
@@ -68,17 +79,6 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
-      "score": 11.0
-    },
-    {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
       "score": 11.0
     },
     {
