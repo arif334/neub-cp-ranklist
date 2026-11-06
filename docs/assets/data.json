@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-05 04:10:41",
+    "last_updated": "2026-11-06 04:08:16",
     "total_coders": 24
   },
   "data": [
@@ -14,6 +14,17 @@
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 66.15
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 65.125
     },
     {
       "id": "05624205101055",
@@ -49,17 +60,6 @@
       "score": 40.766666666666666
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 34.925
-    },
-    {
       "id": "05624205101062",
       "name": "Hridoy Paul",
       "cf_handle": "iamhridoy18",
@@ -69,6 +69,17 @@
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 30.866666666666667
+    },
+    {
+      "id": "Faculty",
+      "name": "Arif Ahmad",
+      "cf_handle": "Punter",
+      "cf_color": "gray",
+      "cc_handle": "arif334",
+      "cc_color": "gray",
+      "atcoder_handle": "arif334",
+      "atc_color": "gray",
+      "score": 25.166666666666668
     },
     {
       "id": "0562320005101062",
@@ -254,17 +265,6 @@
       "cc_handle": "Come_back01",
       "cc_color": "green",
       "atcoder_handle": "SAHAL01",
-      "atc_color": "gray",
-      "score": 0.0
-    },
-    {
-      "id": "Faculty",
-      "name": "Arif Ahmad",
-      "cf_handle": "Punter",
-      "cf_color": "gray",
-      "cc_handle": "arif334",
-      "cc_color": "gray",
-      "atcoder_handle": "arif334",
       "atc_color": "gray",
       "score": 0.0
     }
