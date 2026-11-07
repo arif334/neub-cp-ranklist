@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-06 04:08:16",
+    "last_updated": "2026-11-07 03:41:59",
     "total_coders": 24
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 65.125
+      "score": 64.29166666666667
     },
     {
       "id": "05624205101055",
@@ -35,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 49.36666666666667
+      "score": 50.0
     },
     {
       "id": "05624205101051",
