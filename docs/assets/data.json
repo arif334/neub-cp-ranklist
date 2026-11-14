@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-13 04:01:33",
+    "last_updated": "2026-11-14 04:00:06",
     "total_coders": 24
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 65.19166666666666
+      "score": 65.725
     },
     {
       "id": "05624205101055",
@@ -35,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 48.7
+      "score": 49.7
     },
     {
       "id": "05624205101051",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 47.5
+      "score": 47.43333333333333
     },
     {
       "id": "05620205101064",
@@ -68,7 +68,7 @@
       "cc_color": "gray",
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
-      "score": 30.866666666666667
+      "score": 31.1
     },
     {
       "id": "Faculty",
