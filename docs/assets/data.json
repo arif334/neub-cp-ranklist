@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-14 04:00:06",
+    "last_updated": "2026-11-15 03:45:44",
     "total_coders": 24
   },
   "data": [
@@ -49,17 +49,6 @@
       "score": 47.43333333333333
     },
     {
-      "id": "05620205101064",
-      "name": "Md. Usman Ahmed Furkan",
-      "cf_handle": "usmanfurkan",
-      "cf_color": "gray",
-      "cc_handle": "usmanfurkan",
-      "cc_color": "gray",
-      "atcoder_handle": "usmanfurkan ",
-      "atc_color": "gray",
-      "score": 40.766666666666666
-    },
-    {
       "id": "05624205101062",
       "name": "Hridoy Paul",
       "cf_handle": "iamhridoy18",
@@ -89,8 +78,8 @@
       "cc_handle": "mahedianik2",
       "cc_color": "gray",
       "atcoder_handle": "mahedi_02",
-      "atc_color": "gray",
-      "score": 21.1
+      "atc_color": "#804000",
+      "score": 22.253846153846155
     },
     {
       "id": "05624205101037",
@@ -112,6 +101,17 @@
       "cc_color": "green",
       "atcoder_handle": "Mahfuz2411",
       "atc_color": "#804000",
+      "score": 11.0
+    },
+    {
+      "id": "05620205101064",
+      "name": "Md. Usman Ahmed Furkan",
+      "cf_handle": "usmanfurkan",
+      "cf_color": "gray",
+      "cc_handle": "usmanfurkan",
+      "cc_color": "gray",
+      "atcoder_handle": "usmanfurkan ",
+      "atc_color": "gray",
       "score": 11.0
     },
     {
