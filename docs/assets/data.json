@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-15 03:45:44",
+    "last_updated": "2026-11-16 03:46:35",
     "total_coders": 24
   },
   "data": [
@@ -24,7 +24,7 @@
       "cc_color": "green",
       "atcoder_handle": "Ph4ntomphoton",
       "atc_color": "gray",
-      "score": 65.725
+      "score": 65.39166666666667
     },
     {
       "id": "05624205101055",
@@ -35,7 +35,7 @@
       "cc_color": "gray",
       "atcoder_handle": "saklan",
       "atc_color": "gray",
-      "score": 49.7
+      "score": 52.4
     },
     {
       "id": "05624205101051",
@@ -46,7 +46,7 @@
       "cc_color": "gray",
       "atcoder_handle": "das_akash",
       "atc_color": "gray",
-      "score": 47.43333333333333
+      "score": 48.233333333333334
     },
     {
       "id": "05624205101062",
@@ -58,6 +58,17 @@
       "atcoder_handle": "ByteQuest",
       "atc_color": "gray",
       "score": 31.1
+    },
+    {
+      "id": "0562410005101017",
+      "name": "Oly Ahmed",
+      "cf_handle": "olyahmed_680",
+      "cf_color": "gray",
+      "cc_handle": "olyahmed_680",
+      "cc_color": "gray",
+      "atcoder_handle": "olyahmed_680",
+      "atc_color": "gray",
+      "score": 28.933333333333334
     },
     {
       "id": "Faculty",
@@ -201,17 +212,6 @@
       "atcoder_handle": "jadab_691",
       "atc_color": "gray",
       "score": 7.0
-    },
-    {
-      "id": "0562410005101017",
-      "name": "Oly Ahmed",
-      "cf_handle": "olyahmed_680",
-      "cf_color": "gray",
-      "cc_handle": "olyahmed_680",
-      "cc_color": "gray",
-      "atcoder_handle": "olyahmed_680",
-      "atc_color": "gray",
-      "score": 6.0
     },
     {
       "id": "05624205101026",
