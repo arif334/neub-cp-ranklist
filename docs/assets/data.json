@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-20 04:50:27",
+    "last_updated": "2026-11-21 04:44:50",
     "total_coders": 24
   },
   "data": [
@@ -16,17 +16,6 @@
       "score": 72.87083333333334
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 65.39166666666667
-    },
-    {
       "id": "05624205101055",
       "name": "Md Ajharul Islam",
       "cf_handle": "saklan",
@@ -36,6 +25,17 @@
       "atcoder_handle": "saklan",
       "atc_color": "gray",
       "score": 52.4
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 38.46666666666667
     },
     {
       "id": "190303020014",
