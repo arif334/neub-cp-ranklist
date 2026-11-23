@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-11-22 03:59:31",
+    "last_updated": "2026-11-23 04:41:56",
     "total_coders": 24
   },
   "data": [
@@ -27,17 +27,6 @@
       "score": 52.4
     },
     {
-      "id": "0562220005101039",
-      "name": "Kazi Abu Sayed Jilani",
-      "cf_handle": "phantomphoton_",
-      "cf_color": "gray",
-      "cc_handle": "ph4ntomphoton",
-      "cc_color": "green",
-      "atcoder_handle": "Ph4ntomphoton",
-      "atc_color": "gray",
-      "score": 39.233333333333334
-    },
-    {
       "id": "190303020014",
       "name": "Md Shuhan Miah",
       "cf_handle": "shuhan_ahmed",
@@ -47,6 +36,17 @@
       "atcoder_handle": "shuhan_ahmed",
       "atc_color": "gray",
       "score": 38.15
+    },
+    {
+      "id": "0562220005101039",
+      "name": "Kazi Abu Sayed Jilani",
+      "cf_handle": "phantomphoton_",
+      "cf_color": "gray",
+      "cc_handle": "ph4ntomphoton",
+      "cc_color": "green",
+      "atcoder_handle": "Ph4ntomphoton",
+      "atc_color": "gray",
+      "score": 37.5
     },
     {
       "id": "05624205101062",
